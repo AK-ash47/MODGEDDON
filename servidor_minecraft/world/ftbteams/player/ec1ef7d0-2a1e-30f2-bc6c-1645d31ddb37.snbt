@@ -1,0 +1,17 @@
+{
+	id: "ec1ef7d0-2a1e-30f2-bc6c-1645d31ddb37"
+	type: "player"
+	player_name: "AkaH"
+	ranks: {
+		ec1ef7d0-2a1e-30f2-bc6c-1645d31ddb37: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "AkaH"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D859FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

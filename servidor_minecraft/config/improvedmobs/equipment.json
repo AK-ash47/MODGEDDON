@@ -1,0 +1,1416 @@
+{
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "The first number is the weight while the second number is the quality",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": {
+    "aiotbotania:livingrock_axe": [
+      24654,
+      0.049399998
+    ],
+    "aiotbotania:livingrock_sword": [
+      24770,
+      0.0378
+    ],
+    "aiotbotania:livingwood_axe": [
+      24929,
+      0.0219
+    ],
+    "aiotbotania:livingwood_sword": [
+      24998,
+      0.015
+    ],
+    "alexsmobs:skelewag_sword": [
+      24382,
+      0.7804518
+    ],
+    "aquaculture:diamond_fillet_knife": [
+      23150,
+      2.3810277
+    ],
+    "aquaculture:gold_fillet_knife": [
+      25108,
+      0.0039999997
+    ],
+    "aquaculture:iron_fillet_knife": [
+      24826,
+      0.0322
+    ],
+    "aquaculture:neptunium_axe": [
+      21925,
+      5.9057183
+    ],
+    "aquaculture:neptunium_bow": [
+      18348,
+      13.389866
+    ],
+    "aquaculture:neptunium_fillet_knife": [
+      25139,
+      8.999999E-4
+    ],
+    "aquaculture:neptunium_sword": [
+      21991,
+      5.767269
+    ],
+    "aquaculture:stone_fillet_knife": [
+      24980,
+      0.0168
+    ],
+    "aquaculture:wooden_fillet_knife": [
+      25074,
+      0.0074
+    ],
+    "aquamirae:coral_lance": [
+      22510,
+      4.662123
+    ],
+    "aquamirae:dagger_of_greed": [
+      24951,
+      0.019699998
+    ],
+    "aquamirae:divider": [
+      21318,
+      7.172319
+    ],
+    "aquamirae:fin_cutter": [
+      23383,
+      2.0735214
+    ],
+    "aquamirae:poisoned_blade": [
+      24254,
+      0.94598794
+    ],
+    "aquamirae:remnants_saber": [
+      24934,
+      0.021399999
+    ],
+    "aquamirae:sweet_lance": [
+      22510,
+      4.662123
+    ],
+    "aquamirae:terrible_sword": [
+      23808,
+      1.5193686
+    ],
+    "aquamirae:whisper_of_the_abyss": [
+      22510,
+      4.662123
+    ],
+    "ars_nouveau:enchanters_sword": [
+      21577,
+      6.632802
+    ],
+    "ars_nouveau:spell_bow": [
+      23348,
+      2.1195521
+    ],
+    "bloodmagic:soulaxe": [
+      24264,
+      0.93313384
+    ],
+    "bloodmagic:soulsword": [
+      24264,
+      0.93313384
+    ],
+    "born_in_chaos_v1:dark_ritual_dagger": [
+      23868,
+      1.4418514
+    ],
+    "born_in_chaos_v1:darkwarblade": [
+      17952,
+      14.226674
+    ],
+    "born_in_chaos_v1:great_reaper_axe": [
+      22069,
+      5.6032867
+    ],
+    "born_in_chaos_v1:intoxicating_dagger": [
+      22193,
+      5.3415523
+    ],
+    "born_in_chaos_v1:nightmare_scythe": [
+      23769,
+      1.5698475
+    ],
+    "born_in_chaos_v1:sharpened_dark_metal_sword": [
+      22168,
+      5.394444
+    ],
+    "born_in_chaos_v1:shell_mace": [
+      24179,
+      1.0422343
+    ],
+    "born_in_chaos_v1:skullbreaker_hammer": [
+      20328,
+      9.234686
+    ],
+    "born_in_chaos_v1:soul_cutlass": [
+      23893,
+      1.4096019
+    ],
+    "born_in_chaos_v1:soulbane": [
+      19812,
+      10.312961
+    ],
+    "born_in_chaos_v1:spiritual_sword": [
+      22554,
+      4.565825
+    ],
+    "born_in_chaos_v1:supreme_measure": [
+      2,
+      53.470917
+    ],
+    "botania:crystal_bow": [
+      22348,
+      5.0117817
+    ],
+    "botania:elementium_axe": [
+      23772,
+      1.5659617
+    ],
+    "botania:elementium_sword": [
+      23859,
+      1.4534681
+    ],
+    "botania:ender_dagger": [
+      24966,
+      0.018199999
+    ],
+    "botania:livingwood_bow": [
+      22348,
+      5.0117817
+    ],
+    "botania:manasteel_axe": [
+      24486,
+      0.6416611
+    ],
+    "botania:manasteel_sword": [
+      24573,
+      0.5130528
+    ],
+    "botania:star_sword": [
+      21148,
+      7.526204
+    ],
+    "botania:terra_axe": [
+      21049,
+      7.7322817
+    ],
+    "botania:terra_sword": [
+      21148,
+      7.526204
+    ],
+    "botania:thunder_sword": [
+      21148,
+      7.526204
+    ],
+    "cataclysm:final_fractal": [
+      13586,
+      23.563541
+    ],
+    "cataclysm:zweiender": [
+      13586,
+      23.563541
+    ],
+    "dungeons_plus:leviathan_blade": [
+      23371,
+      2.0892968
+    ],
+    "dungeons_plus:warped_axe": [
+      24466,
+      0.66898584
+    ],
+    "evilcraft:spikey_claws": [
+      24648,
+      0.049999997
+    ],
+    "evilcraft:vein_sword": [
+      25067,
+      0.0081
+    ],
+    "extrautilitiesrebirth:etheric_sword": [
+      22343,
+      5.022479
+    ],
+    "extrautilitiesrebirth:fire_axe": [
+      25029,
+      0.011899999
+    ],
+    "extrautilitiesrebirth:healing_axe": [
+      22430,
+      4.8356147
+    ],
+    "extrautilitiesrebirth:kikoku": [
+      24912,
+      0.023599999
+    ],
+    "immersiveengineering:axe_steel": [
+      23889,
+      1.41476
+    ],
+    "immersiveengineering:sword_steel": [
+      23969,
+      1.3117309
+    ],
+    "infernalexp:glowsilk_bow": [
+      22580,
+      4.508568
+    ],
+    "majruszsdifficulty:enderium_axe": [
+      21280,
+      7.2514286
+    ],
+    "majruszsdifficulty:enderium_sword": [
+      21327,
+      7.15358
+    ],
+    "majruszsdifficulty:wither_sword": [
+      24446,
+      0.6959233
+    ],
+    "mca:scythe": [
+      24864,
+      0.028399998
+    ],
+    "minecraft:bow": [
+      22580,
+      4.508568
+    ],
+    "minecraft:crossbow": [
+      22874,
+      3.826627
+    ],
+    "minecraft:diamond_axe": [
+      22343,
+      5.022479
+    ],
+    "minecraft:diamond_sword": [
+      22405,
+      4.889481
+    ],
+    "minecraft:enchanted_book": [
+      23548,
+      1.8573177
+    ],
+    "minecraft:golden_axe": [
+      25004,
+      0.014399999
+    ],
+    "minecraft:golden_sword": [
+      25067,
+      0.0081
+    ],
+    "minecraft:iron_axe": [
+      24571,
+      0.51635593
+    ],
+    "minecraft:iron_sword": [
+      24658,
+      0.049
+    ],
+    "minecraft:lingering_potion{Potion:\"minecraft:harming\"}": [
+      23648,
+      1.7269388
+    ],
+    "minecraft:netherite_axe": [
+      21507,
+      6.778693
+    ],
+    "minecraft:netherite_sword": [
+      21577,
+      6.632802
+    ],
+    "minecraft:snowball": [
+      24598,
+      0.46844563
+    ],
+    "minecraft:splash_potion{Potion:\"minecraft:harming\"}": [
+      23648,
+      1.7269388
+    ],
+    "minecraft:stone_axe": [
+      24774,
+      0.0374
+    ],
+    "minecraft:stone_sword": [
+      24882,
+      0.026599998
+    ],
+    "minecraft:tnt": [
+      23448,
+      1.9881918
+    ],
+    "minecraft:trident": [
+      22648,
+      4.357304
+    ],
+    "minecraft:wooden_axe": [
+      24958,
+      0.019
+    ],
+    "minecraft:wooden_sword": [
+      25021,
+      0.0127
+    ],
+    "monsterplus:crystal_sword": [
+      22430,
+      4.8356147
+    ],
+    "monsterplus:darkstar": [
+      22237,
+      5.248286
+    ],
+    "monsterplus:gnawing_jaw": [
+      22259,
+      5.201559
+    ],
+    "mysticalworld:cactus_axe": [
+      24965,
+      0.018299999
+    ],
+    "mysticalworld:cactus_sword": [
+      24999,
+      0.0149
+    ],
+    "mysticalworld:copper_axe": [
+      24689,
+      0.045899995
+    ],
+    "mysticalworld:copper_sword": [
+      24743,
+      0.040499996
+    ],
+    "mysticalworld:lead_axe": [
+      23834,
+      1.4857569
+    ],
+    "mysticalworld:lead_sword": [
+      23966,
+      1.3155895
+    ],
+    "mysticalworld:orichalcum_axe": [
+      24851,
+      0.0297
+    ],
+    "mysticalworld:orichalcum_sword": [
+      24944,
+      0.020399999
+    ],
+    "mysticalworld:sapphire_axe": [
+      23327,
+      2.1471982
+    ],
+    "mysticalworld:sapphire_sword": [
+      23426,
+      2.0170498
+    ],
+    "mysticalworld:silver_axe": [
+      24681,
+      0.0467
+    ],
+    "mysticalworld:silver_sword": [
+      24774,
+      0.0374
+    ],
+    "mysticalworld:tin_axe": [
+      24716,
+      0.043199997
+    ],
+    "mysticalworld:tin_sword": [
+      24803,
+      0.0345
+    ],
+    "occultism:butcher_knife": [
+      24658,
+      0.049
+    ],
+    "reliquary:magicbane": [
+      25077,
+      0.0070999996
+    ],
+    "reliquary:mercy_cross": [
+      24851,
+      0.0297
+    ],
+    "scattered_weapons:backstaber": [
+      24334,
+      0.84286135
+    ],
+    "scattered_weapons:beerapier": [
+      24434,
+      0.7119398
+    ],
+    "scattered_weapons:claymore": [
+      24468,
+      0.66627264
+    ],
+    "scattered_weapons:cursedaxe": [
+      24125,
+      1.111464
+    ],
+    "scattered_weapons:cutlass": [
+      24667,
+      0.0481
+    ],
+    "scattered_weapons:dagger": [
+      24743,
+      0.040499996
+    ],
+    "scattered_weapons:danserssword": [
+      24514,
+      0.6024908
+    ],
+    "scattered_weapons:darkkatana": [
+      24264,
+      0.93313384
+    ],
+    "scattered_weapons:ethernalknife": [
+      24231,
+      0.9755281
+    ],
+    "scattered_weapons:fangoffrost": [
+      24624,
+      0.40784094
+    ],
+    "scattered_weapons:firebrand": [
+      24709,
+      0.043899998
+    ],
+    "scattered_weapons:fortunespear": [
+      24561,
+      0.53247225
+    ],
+    "scattered_weapons:frostskythe": [
+      24517,
+      0.59821117
+    ],
+    "scattered_weapons:hawkbrand": [
+      24692,
+      0.045599997
+    ],
+    "scattered_weapons:heartstealer": [
+      24153,
+      1.0755678
+    ],
+    "scattered_weapons:highlanderaxe": [
+      24673,
+      0.0475
+    ],
+    "scattered_weapons:jailorsskythe": [
+      24194,
+      1.0229998
+    ],
+    "scattered_weapons:katana": [
+      24730,
+      0.041799996
+    ],
+    "scattered_weapons:masterkatana": [
+      24468,
+      0.66627264
+    ],
+    "scattered_weapons:moondagger": [
+      24794,
+      0.0354
+    ],
+    "scattered_weapons:namelessblade": [
+      24293,
+      0.89580816
+    ],
+    "scattered_weapons:nightmaresbite": [
+      24339,
+      0.8363856
+    ],
+    "scattered_weapons:rapier": [
+      24737,
+      0.0411
+    ],
+    "scattered_weapons:soulknife": [
+      24743,
+      0.040499996
+    ],
+    "scattered_weapons:soulskythe": [
+      24781,
+      0.0367
+    ],
+    "scattered_weapons:soulsword": [
+      23732,
+      1.6178063
+    ],
+    "scattered_weapons:spear": [
+      24713,
+      0.0435
+    ],
+    "scattered_weapons:thelastlaugh": [
+      24509,
+      0.60958326
+    ],
+    "scattered_weapons:truthseeker": [
+      24401,
+      0.7555575
+    ],
+    "scattered_weapons:uniquerapier": [
+      24356,
+      0.8143284
+    ],
+    "scattered_weapons:whisperingspear": [
+      24264,
+      0.93313384
+    ]
+  },
+  "OFFHAND": {
+    "ars_nouveau:enchanters_shield": [
+      275,
+      2.053812
+    ],
+    "minecraft:ender_pearl": [
+      925,
+      1.2102311
+    ],
+    "minecraft:flint_and_steel": [
+      897,
+      1.2461817
+    ],
+    "minecraft:lava_bucket": [
+      525,
+      1.7269388
+    ],
+    "minecraft:shield": [
+      603,
+      1.6255897
+    ]
+  },
+  "FEET": {
+    "alexsmobs:flying_fish_boots": [
+      9634,
+      0.0167
+    ],
+    "alexsmobs:roadrunner_boots": [
+      8999,
+      0.8273109
+    ],
+    "aquaculture:neptunium_boots": [
+      7882,
+      2.2764862
+    ],
+    "aquamirae:abyssal_boots": [
+      8356,
+      1.6554433
+    ],
+    "aquamirae:terrible_boots": [
+      8410,
+      1.5853943
+    ],
+    "aquamirae:three_bolt_boots": [
+      7748,
+      3.1174598
+    ],
+    "ars_nouveau:apprentice_boots": [
+      8576,
+      1.3709393
+    ],
+    "ars_nouveau:archmage_boots": [
+      7813,
+      2.367779
+    ],
+    "ars_nouveau:novice_boots": [
+      8900,
+      0.9549818
+    ],
+    "biomemakeover:cladded_boots": [
+      9019,
+      0.8013214
+    ],
+    "bloodmagic:livingboots": [
+      8625,
+      1.3078723
+    ],
+    "born_in_chaos_v1:dark_metal_armor_boots": [
+      6639,
+      5.7777667
+    ],
+    "born_in_chaos_v1:nightmare_mantleofthe_night_boots": [
+      7821,
+      2.3571835
+    ],
+    "botania:elementium_boots": [
+      8685,
+      1.2307714
+    ],
+    "botania:manasteel_boots": [
+      8699,
+      1.2127981
+    ],
+    "botania:manaweave_boots": [
+      9532,
+      0.0269
+    ],
+    "botania:terrasteel_boots": [
+      7820,
+      2.3585079
+    ],
+    "cataclysm:ignitium_boots": [
+      6672,
+      5.7084517
+    ],
+    "create:copper_diving_boots": [
+      9227,
+      0.5113901
+    ],
+    "create:netherite_diving_boots": [
+      8166,
+      1.9030677
+    ],
+    "immersiveengineering:armor_faraday_feet": [
+      9598,
+      0.020299999
+    ],
+    "immersiveengineering:armor_steel_feet": [
+      8448,
+      1.5361866
+    ],
+    "majruszsdifficulty:enderium_boots": [
+      7381,
+      4.175677
+    ],
+    "majruszsdifficulty:tattered_boots": [
+      9495,
+      0.030599998
+    ],
+    "minecraft:chainmail_boots": [
+      9209,
+      0.540316
+    ],
+    "minecraft:diamond_boots": [
+      8293,
+      1.7373508
+    ],
+    "minecraft:golden_boots": [
+      9275,
+      0.4136078
+    ],
+    "minecraft:iron_boots": [
+      8961,
+      0.8764657
+    ],
+    "minecraft:leather_boots": [
+      9557,
+      0.0244
+    ],
+    "minecraft:netherite_boots": [
+      8166,
+      1.9030677
+    ],
+    "monsterplus:crystal_boots": [
+      7916,
+      2.231581
+    ],
+    "mysticalworld:beetle_boots": [
+      8636,
+      1.2937275
+    ],
+    "mysticalworld:copper_boots": [
+      8761,
+      1.1332608
+    ],
+    "mysticalworld:lead_boots": [
+      8722,
+      1.1832824
+    ],
+    "mysticalworld:orichalcum_boots": [
+      9158,
+      0.61522335
+    ],
+    "mysticalworld:sapphire_boots": [
+      7896,
+      2.2579892
+    ],
+    "mysticalworld:silver_boots": [
+      9158,
+      0.61522335
+    ],
+    "mysticalworld:tin_boots": [
+      9120,
+      0.6676297
+    ],
+    "netherdepthsupgrade:soul_sucker_boots": [
+      8831,
+      1.0435165
+    ],
+    "scattered_weapons:chief_armor_boots": [
+      0,
+      19.7751
+    ],
+    "scattered_weapons:hunter_armor_boots": [
+      390,
+      18.939947
+    ],
+    "scattered_weapons:king_armor_boots": [
+      11,
+      19.751526
+    ],
+    "scattered_weapons:knight_armor_boots": [
+      7,
+      19.760096
+    ],
+    "scattered_weapons:samurai_armor_boots": [
+      7,
+      19.760096
+    ],
+    "tconstruct:plate_boots": [
+      9800,
+      1.0E-4
+    ],
+    "tconstruct:slime_boots": [
+      9800,
+      1.0E-4
+    ],
+    "tconstruct:travelers_boots": [
+      9800,
+      1.0E-4
+    ]
+  },
+  "LEGS": {
+    "alexsmobs:centipede_leggings": [
+      7247,
+      4.4776144
+    ],
+    "alexsmobs:emu_leggings": [
+      8614,
+      1.3220218
+    ],
+    "aquaculture:neptunium_leggings": [
+      7882,
+      2.2764862
+    ],
+    "aquamirae:abyssal_leggings": [
+      8356,
+      1.6554433
+    ],
+    "aquamirae:terrible_leggings": [
+      8410,
+      1.5853943
+    ],
+    "aquamirae:three_bolt_leggings": [
+      7748,
+      3.1174598
+    ],
+    "ars_nouveau:apprentice_leggings": [
+      8576,
+      1.3709393
+    ],
+    "ars_nouveau:archmage_leggings": [
+      7813,
+      2.367779
+    ],
+    "ars_nouveau:novice_leggings": [
+      8900,
+      0.9549818
+    ],
+    "biomemakeover:cladded_leggings": [
+      9019,
+      0.8013214
+    ],
+    "bloodmagic:livingleggings": [
+      8625,
+      1.3078723
+    ],
+    "born_in_chaos_v1:dark_metal_armor_leggings": [
+      6639,
+      5.7777667
+    ],
+    "born_in_chaos_v1:nightmare_mantleofthe_night_leggings": [
+      7821,
+      2.3571835
+    ],
+    "botania:elementium_leggings": [
+      8685,
+      1.2307714
+    ],
+    "botania:manasteel_leggings": [
+      8699,
+      1.2127981
+    ],
+    "botania:manaweave_leggings": [
+      9532,
+      0.0269
+    ],
+    "botania:terrasteel_leggings": [
+      7820,
+      2.3585079
+    ],
+    "cataclysm:ignitium_leggings": [
+      6672,
+      5.7084517
+    ],
+    "immersiveengineering:armor_faraday_legs": [
+      9598,
+      0.020299999
+    ],
+    "immersiveengineering:armor_steel_legs": [
+      8448,
+      1.5361866
+    ],
+    "majruszsdifficulty:enderium_leggings": [
+      7381,
+      4.175677
+    ],
+    "majruszsdifficulty:tattered_leggings": [
+      9495,
+      0.030599998
+    ],
+    "minecraft:chainmail_leggings": [
+      9209,
+      0.540316
+    ],
+    "minecraft:diamond_leggings": [
+      8293,
+      1.7373508
+    ],
+    "minecraft:golden_leggings": [
+      9275,
+      0.4136078
+    ],
+    "minecraft:iron_leggings": [
+      8961,
+      0.8764657
+    ],
+    "minecraft:leather_leggings": [
+      9557,
+      0.0244
+    ],
+    "minecraft:netherite_leggings": [
+      8166,
+      1.9030677
+    ],
+    "monsterplus:crystal_leggings": [
+      7916,
+      2.231581
+    ],
+    "mysticalworld:beetle_leggings": [
+      8636,
+      1.2937275
+    ],
+    "mysticalworld:copper_leggings": [
+      8761,
+      1.1332608
+    ],
+    "mysticalworld:lead_leggings": [
+      8722,
+      1.1832824
+    ],
+    "mysticalworld:orichalcum_leggings": [
+      9158,
+      0.61522335
+    ],
+    "mysticalworld:sapphire_leggings": [
+      7896,
+      2.2579892
+    ],
+    "mysticalworld:silver_leggings": [
+      9158,
+      0.61522335
+    ],
+    "mysticalworld:tin_leggings": [
+      9120,
+      0.6676297
+    ],
+    "scattered_weapons:chief_armor_leggings": [
+      0,
+      19.7751
+    ],
+    "scattered_weapons:hunter_armor_leggings": [
+      390,
+      18.939947
+    ],
+    "scattered_weapons:king_armor_leggings": [
+      11,
+      19.751526
+    ],
+    "scattered_weapons:knight_armor_leggings": [
+      7,
+      19.760096
+    ],
+    "scattered_weapons:ninja_armor_leggings": [
+      795,
+      18.074257
+    ],
+    "scattered_weapons:samurai_armor_leggings": [
+      7,
+      19.760096
+    ],
+    "tconstruct:plate_leggings": [
+      9800,
+      1.0E-4
+    ],
+    "tconstruct:slime_leggings": [
+      9800,
+      1.0E-4
+    ],
+    "tconstruct:travelers_leggings": [
+      9800,
+      1.0E-4
+    ]
+  },
+  "CHEST": {
+    "alexsmobs:crocodile_chestplate": [
+      8366,
+      1.6424603
+    ],
+    "alexsmobs:rocky_chestplate": [
+      8455,
+      1.5271299
+    ],
+    "alexsmobs:tarantula_hawk_elytra": [
+      8946,
+      0.89580816
+    ],
+    "aquaculture:neptunium_chestplate": [
+      7882,
+      2.2764862
+    ],
+    "aquamirae:abyssal_brigantine": [
+      8356,
+      1.6554433
+    ],
+    "aquamirae:terrible_chestplate": [
+      8410,
+      1.5853943
+    ],
+    "aquamirae:three_bolt_suit": [
+      7748,
+      3.1174598
+    ],
+    "ars_nouveau:apprentice_robes": [
+      8576,
+      1.3709393
+    ],
+    "ars_nouveau:archmage_robes": [
+      7813,
+      2.367779
+    ],
+    "ars_nouveau:novice_robes": [
+      8900,
+      0.9549818
+    ],
+    "biomemakeover:cladded_chestplate": [
+      9019,
+      0.8013214
+    ],
+    "bloodmagic:livingplate": [
+      8625,
+      1.3078723
+    ],
+    "born_in_chaos_v1:dark_metal_armor_chestplate": [
+      6639,
+      5.7777667
+    ],
+    "born_in_chaos_v1:nightmare_mantleofthe_night_chestplate": [
+      7821,
+      2.3571835
+    ],
+    "born_in_chaos_v1:spiny_shell_armor_chestplate": [
+      9020,
+      0.80001926
+    ],
+    "botania:elementium_chestplate": [
+      8685,
+      1.2307714
+    ],
+    "botania:manasteel_chestplate": [
+      8699,
+      1.2127981
+    ],
+    "botania:manaweave_chestplate": [
+      9532,
+      0.0269
+    ],
+    "botania:terrasteel_chestplate": [
+      7820,
+      2.3585079
+    ],
+    "cataclysm:ignitium_chestplate": [
+      6672,
+      5.7084517
+    ],
+    "cataclysm:ignitium_elytra_chestplate": [
+      6672,
+      5.7084517
+    ],
+    "create:copper_backtank": [
+      9227,
+      0.5113901
+    ],
+    "create:netherite_backtank": [
+      8166,
+      1.9030677
+    ],
+    "immersiveengineering:armor_faraday_chest": [
+      9598,
+      0.020299999
+    ],
+    "immersiveengineering:armor_steel_chest": [
+      8448,
+      1.5361866
+    ],
+    "majruszsdifficulty:enderium_chestplate": [
+      7381,
+      4.175677
+    ],
+    "majruszsdifficulty:tattered_chestplate": [
+      9495,
+      0.030599998
+    ],
+    "minecraft:chainmail_chestplate": [
+      9209,
+      0.540316
+    ],
+    "minecraft:diamond_chestplate": [
+      8293,
+      1.7373508
+    ],
+    "minecraft:golden_chestplate": [
+      9275,
+      0.4136078
+    ],
+    "minecraft:iron_chestplate": [
+      8961,
+      0.8764657
+    ],
+    "minecraft:leather_chestplate": [
+      9557,
+      0.0244
+    ],
+    "minecraft:netherite_chestplate": [
+      8166,
+      1.9030677
+    ],
+    "monsterplus:crystal_chestplate": [
+      7916,
+      2.231581
+    ],
+    "mysticalworld:beetle_chestplate": [
+      8636,
+      1.2937275
+    ],
+    "mysticalworld:copper_chestplate": [
+      8761,
+      1.1332608
+    ],
+    "mysticalworld:lead_chestplate": [
+      8722,
+      1.1832824
+    ],
+    "mysticalworld:orichalcum_chestplate": [
+      9158,
+      0.61522335
+    ],
+    "mysticalworld:sapphire_chestplate": [
+      7896,
+      2.2579892
+    ],
+    "mysticalworld:silver_chestplate": [
+      9158,
+      0.61522335
+    ],
+    "mysticalworld:tin_chestplate": [
+      9120,
+      0.6676297
+    ],
+    "quark:backpack": [
+      9557,
+      0.0244
+    ],
+    "scattered_weapons:chief_armor_chestplate": [
+      0,
+      19.7751
+    ],
+    "scattered_weapons:hunter_armor_chestplate": [
+      390,
+      18.939947
+    ],
+    "scattered_weapons:king_armor_chestplate": [
+      11,
+      19.751526
+    ],
+    "scattered_weapons:knight_armor_chestplate": [
+      7,
+      19.760096
+    ],
+    "scattered_weapons:ninja_armor_chestplate": [
+      795,
+      18.074257
+    ],
+    "scattered_weapons:samurai_armor_chestplate": [
+      7,
+      19.760096
+    ],
+    "tconstruct:plate_chestplate": [
+      9800,
+      1.0E-4
+    ],
+    "tconstruct:slime_chestplate": [
+      9800,
+      1.0E-4
+    ],
+    "tconstruct:travelers_chestplate": [
+      9800,
+      1.0E-4
+    ]
+  },
+  "HEAD": {
+    "alexsmobs:fedora": [
+      9325,
+      0.047599997
+    ],
+    "alexsmobs:frontier_cap": [
+      8994,
+      0.8337938
+    ],
+    "alexsmobs:froststalker_helmet": [
+      9159,
+      0.613816
+    ],
+    "alexsmobs:moose_headgear": [
+      8987,
+      0.84286135
+    ],
+    "alexsmobs:novelty_hat": [
+      9325,
+      0.047599997
+    ],
+    "alexsmobs:sombrero": [
+      9297,
+      0.3019698
+    ],
+    "alexsmobs:spiked_turtle_shell": [
+      8733,
+      1.1691706
+    ],
+    "aquaculture:neptunium_helmet": [
+      7882,
+      2.2764862
+    ],
+    "aquamirae:abyssal_heaume": [
+      8356,
+      1.6554433
+    ],
+    "aquamirae:abyssal_tiara": [
+      8017,
+      2.0985024
+    ],
+    "aquamirae:terrible_helmet": [
+      8410,
+      1.5853943
+    ],
+    "aquamirae:three_bolt_helmet": [
+      7748,
+      3.1174598
+    ],
+    "ars_nouveau:apprentice_hood": [
+      8576,
+      1.3709393
+    ],
+    "ars_nouveau:archmage_hood": [
+      7813,
+      2.367779
+    ],
+    "ars_nouveau:novice_hood": [
+      8900,
+      0.9549818
+    ],
+    "biomemakeover:cladded_helmet": [
+      9019,
+      0.8013214
+    ],
+    "biomemakeover:cowboy_hat": [
+      9355,
+      0.0446
+    ],
+    "biomemakeover:witch_hat": [
+      9355,
+      0.0446
+    ],
+    "bloodmagic:livinghelmet": [
+      8625,
+      1.3078723
+    ],
+    "born_in_chaos_v1:dark_metal_armor_helmet": [
+      6639,
+      5.7777667
+    ],
+    "born_in_chaos_v1:nightmare_mantleofthe_night_helmet": [
+      7821,
+      2.3571835
+    ],
+    "born_in_chaos_v1:spiny_shell_armor_helmet": [
+      9020,
+      0.80001926
+    ],
+    "botania:elementium_helmet": [
+      8685,
+      1.2307714
+    ],
+    "botania:manasteel_helmet": [
+      8699,
+      1.2127981
+    ],
+    "botania:manaweave_helmet": [
+      9532,
+      0.0269
+    ],
+    "botania:terrasteel_helmet": [
+      7820,
+      2.3585079
+    ],
+    "cataclysm:ignitium_helmet": [
+      6672,
+      5.7084517
+    ],
+    "cataclysm:monstrous_helm": [
+      8166,
+      1.9030677
+    ],
+    "create:copper_diving_helmet": [
+      9227,
+      0.5113901
+    ],
+    "create:netherite_diving_helmet": [
+      8166,
+      1.9030677
+    ],
+    "dungeons_plus:frosted_cowl": [
+      9347,
+      0.045399997
+    ],
+    "evilcraft:spectral_glasses": [
+      9045,
+      0.7673663
+    ],
+    "immersiveengineering:armor_faraday_head": [
+      9598,
+      0.020299999
+    ],
+    "immersiveengineering:armor_steel_head": [
+      8448,
+      1.5361866
+    ],
+    "majruszsdifficulty:enderium_helmet": [
+      7381,
+      4.175677
+    ],
+    "majruszsdifficulty:tattered_helmet": [
+      9495,
+      0.030599998
+    ],
+    "minecraft:chainmail_helmet": [
+      9209,
+      0.540316
+    ],
+    "minecraft:diamond_helmet": [
+      8293,
+      1.7373508
+    ],
+    "minecraft:golden_helmet": [
+      9275,
+      0.4136078
+    ],
+    "minecraft:iron_helmet": [
+      8961,
+      0.8764657
+    ],
+    "minecraft:leather_helmet": [
+      9557,
+      0.0244
+    ],
+    "minecraft:netherite_helmet": [
+      8166,
+      1.9030677
+    ],
+    "minecraft:shulker_shell": [
+      9732,
+      0.0069
+    ],
+    "minecraft:turtle_helmet": [
+      8905,
+      0.948558
+    ],
+    "monsterplus:crystal_helmet": [
+      7916,
+      2.231581
+    ],
+    "mysticalworld:antler_hat": [
+      9422,
+      0.037899997
+    ],
+    "mysticalworld:beetle_helmet": [
+      8636,
+      1.2937275
+    ],
+    "mysticalworld:copper_helmet": [
+      8761,
+      1.1332608
+    ],
+    "mysticalworld:lead_helmet": [
+      8722,
+      1.1832824
+    ],
+    "mysticalworld:orichalcum_helmet": [
+      9158,
+      0.61522335
+    ],
+    "mysticalworld:sapphire_helmet": [
+      7896,
+      2.2579892
+    ],
+    "mysticalworld:silver_helmet": [
+      9158,
+      0.61522335
+    ],
+    "mysticalworld:tin_helmet": [
+      9120,
+      0.6676297
+    ],
+    "occultism:otherworld_goggles": [
+      8961,
+      0.8764657
+    ],
+    "quark:forgotten_hat": [
+      9557,
+      0.0244
+    ],
+    "reliquary:witch_hat": [
+      9171,
+      0.59678036
+    ],
+    "scattered_weapons:chief_armor_helmet": [
+      0,
+      19.7751
+    ],
+    "scattered_weapons:king_armor_helmet": [
+      11,
+      19.751526
+    ],
+    "scattered_weapons:knight_armor_helmet": [
+      7,
+      19.760096
+    ],
+    "scattered_weapons:samurai_armor_helmet": [
+      7,
+      19.760096
+    ],
+    "tconstruct:plate_helmet": [
+      9800,
+      1.0E-4
+    ],
+    "tconstruct:slime_helmet": [
+      9800,
+      1.0E-4
+    ],
+    "tconstruct:travelers_helmet": [
+      9800,
+      1.0E-4
+    ]
+  }
+}
