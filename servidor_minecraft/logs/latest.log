@@ -2154,3 +2154,11 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [02Jan2025 20:53:40.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AkaH: Gave 1    [Ender Pearl] to AkaH]
 [02Jan2025 20:54:24.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has reached the goal [Skyslime Island]
 [02Jan2025 20:56:06.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [Acquire Hardware]
+[02Jan2025 20:57:44.971] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ri'/831, l='ServerLevel[world]', x=79.83, y=69.00, z=72.84] died, message: 'Ri bled to death from injuries caused by Skeleton'
+[02Jan2025 20:57:44.973] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ri'/831, l='ServerLevel[world]', x=79.83, y=69.00, z=72.84] died: Ri bled to death from injuries caused by Skeleton
+[02Jan2025 20:57:57.075] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Soon-Young'/35093, l='ServerLevel[world]', x=109.13, y=65.00, z=78.13] died, message: 'Soon-Young was shot by Skeleton'
+[02Jan2025 20:58:36.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkaH lost connection: Disconnected
+[02Jan2025 20:58:36.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH left the game
+[02Jan2025 20:58:36.422] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AkaH
+[02Jan2025 21:05:48.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[02Jan2025 21:05:48.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: hola<--[HERE]
