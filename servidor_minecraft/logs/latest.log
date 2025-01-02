@@ -2234,3 +2234,87 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [02Jan2025 21:14:02.121] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AkaH
 [02Jan2025 21:14:50.468] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ji-Youn'/871, l='ServerLevel[world]', x=20.75, y=67.75, z=83.42] died, message: 'Ji-Youn was slain by Spider'
 [02Jan2025 21:14:50.470] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ji-Youn'/871, l='ServerLevel[world]', x=20.75, y=67.75, z=83.42] died: Ji-Youn was slain by Spider
+[02Jan2025 21:23:34.973] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6edbec28
+[02Jan2025 21:23:34.991] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:crystal_seashelf removed now.
+[02Jan2025 21:23:34.992] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:boots_tome removed now.
+[02Jan2025 21:23:34.992] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:beeshelf removed now.
+[02Jan2025 21:23:34.992] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:helmet_tome removed now.
+[02Jan2025 21:23:34.993] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:library removed now.
+[02Jan2025 21:23:34.993] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:melonshelf removed now.
+[02Jan2025 21:23:34.993] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:vial_of_extraction removed now.
+[02Jan2025 21:23:34.994] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:pearl_endshelf removed now.
+[02Jan2025 21:23:34.994] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:enchanted_golden_apple removed now.
+[02Jan2025 21:23:34.994] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:other_tome removed now.
+[02Jan2025 21:23:34.995] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:vial_of_expulsion removed now.
+[02Jan2025 21:23:34.995] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:scrap_tome removed now.
+[02Jan2025 21:23:34.995] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:bow_tome removed now.
+[02Jan2025 21:23:34.995] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:heart_seashelf removed now.
+[02Jan2025 21:23:34.995] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:weapon_tome removed now.
+[02Jan2025 21:23:34.996] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:draconic_endshelf removed now.
+[02Jan2025 21:23:34.997] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:chestplate_tome removed now.
+[02Jan2025 21:23:34.998] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:seashelf removed now.
+[02Jan2025 21:23:34.998] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[02Jan2025 21:23:34.999] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:hellshelf removed now.
+[02Jan2025 21:23:34.999] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:glowing_hellshelf removed now.
+[02Jan2025 21:23:34.999] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:endshelf removed now.
+[02Jan2025 21:23:35.000] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[02Jan2025 21:23:35.001] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:pickaxe_tome removed now.
+[02Jan2025 21:23:35.001] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:blazing_hellshelf removed now.
+[02Jan2025 21:23:35.002] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:fishing_tome removed now.
+[02Jan2025 21:23:35.002] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:prismatic_web removed now.
+[02Jan2025 21:23:35.003] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:ender_lead removed now.
+[02Jan2025 21:23:35.003] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:leggings_tome removed now.
+[02Jan2025 21:23:35.004] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[02Jan2025 21:23:35.004] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:crystal_seashelf removed now.
+[02Jan2025 21:23:35.004] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:boots_tome removed now.
+[02Jan2025 21:23:35.004] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:beeshelf removed now.
+[02Jan2025 21:23:35.005] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:helmet_tome removed now.
+[02Jan2025 21:23:35.005] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:library removed now.
+[02Jan2025 21:23:35.005] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:melonshelf removed now.
+[02Jan2025 21:23:35.006] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:vial_of_extraction removed now.
+[02Jan2025 21:23:35.006] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:pearl_endshelf removed now.
+[02Jan2025 21:23:35.006] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:enchanted_golden_apple removed now.
+[02Jan2025 21:23:35.007] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:other_tome removed now.
+[02Jan2025 21:23:35.007] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:vial_of_expulsion removed now.
+[02Jan2025 21:23:35.007] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:scrap_tome removed now.
+[02Jan2025 21:23:35.007] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:bow_tome removed now.
+[02Jan2025 21:23:35.008] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:heart_seashelf removed now.
+[02Jan2025 21:23:35.008] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:weapon_tome removed now.
+[02Jan2025 21:23:35.009] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:draconic_endshelf removed now.
+[02Jan2025 21:23:35.009] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:chestplate_tome removed now.
+[02Jan2025 21:23:35.011] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:seashelf removed now.
+[02Jan2025 21:23:35.011] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[02Jan2025 21:23:35.011] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:hellshelf removed now.
+[02Jan2025 21:23:35.011] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:glowing_hellshelf removed now.
+[02Jan2025 21:23:35.011] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:endshelf removed now.
+[02Jan2025 21:23:35.012] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[02Jan2025 21:23:35.013] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:pickaxe_tome removed now.
+[02Jan2025 21:23:35.013] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:blazing_hellshelf removed now.
+[02Jan2025 21:23:35.014] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:fishing_tome removed now.
+[02Jan2025 21:23:35.014] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:prismatic_web removed now.
+[02Jan2025 21:23:35.015] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:ender_lead removed now.
+[02Jan2025 21:23:35.015] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:leggings_tome removed now.
+[02Jan2025 21:23:35.015] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[02Jan2025 21:23:35.017] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkaH[/127.110.120.212:38909] logged in with entity id 39758 at (6.183629207039492, 69.0, 92.69999998807907)
+[02Jan2025 21:23:35.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH joined the game
+[02Jan2025 21:23:35.051] [Server thread/INFO] [Reputation/]: Syncing 0 factions to the client
+[02Jan2025 21:23:35.107] [Server thread/INFO] [Waila/]: Syncing config to AkaH (ec1ef7d0-2a1e-30f2-bc6c-1645d31ddb37)
+[02Jan2025 21:23:35.363] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AkaH (18)
+[02Jan2025 21:23:35.363] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AkaH
+[02Jan2025 21:24:04.321] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1b733a92
+[02Jan2025 21:24:04.650] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: catracho13[/127.94.28.252:60573] logged in with entity id 40500 at (-8.5, 72.0, 110.5)
+[02Jan2025 21:24:04.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 joined the game
+[02Jan2025 21:24:04.676] [Server thread/INFO] [Reputation/]: Syncing 0 factions to the client
+[02Jan2025 21:24:04.843] [Server thread/INFO] [Waila/]: Syncing config to catracho13 (95b969c0-0aa9-3f64-a1e8-54ea542ff8a1)
+[02Jan2025 21:24:05.976] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of catracho13 (18)
+[02Jan2025 21:24:05.976] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to catracho13
+[02Jan2025 21:25:45.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 has made the advancement [Minecraft Comes Alive]
+[02Jan2025 21:25:58.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AkaH: Teleported catracho13 to AkaH]
+[02Jan2025 21:26:33.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH is bleeding. AkaH fell from a high place
+[02Jan2025 21:26:33.105] [Server thread/WARN] [tombstone/]: The death event of the player AkaH was canceled by another mod
+[02Jan2025 21:26:33.157] [Server thread/INFO] [tombstone/]: The player AkaH has successfully been saved
+[02Jan2025 21:26:40.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AkaH: Teleported AkaH to catracho13]
+[02Jan2025 21:27:05.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 has made the advancement [Is this... blood?]
+[02Jan2025 21:27:32.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 is bleeding. catracho13 was doomed to fall by Skeleton
+[02Jan2025 21:27:32.277] [Server thread/WARN] [tombstone/]: The death event of the player catracho13 was canceled by another mod
+[02Jan2025 21:27:32.309] [Server thread/INFO] [tombstone/]: The player catracho13 has successfully been saved

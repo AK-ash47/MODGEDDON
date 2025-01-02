@@ -1,0 +1,17 @@
+{
+	id: "95b969c0-0aa9-3f64-a1e8-54ea542ff8a1"
+	type: "player"
+	player_name: "catracho13"
+	ranks: {
+		95b969c0-0aa9-3f64-a1e8-54ea542ff8a1: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "catracho13"
+		"ftbteams:description": ""
+		"ftbteams:color": "#A359FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "95b969c00aa93f64a1e854ea542ff8a1"
+	name: "catracho13"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

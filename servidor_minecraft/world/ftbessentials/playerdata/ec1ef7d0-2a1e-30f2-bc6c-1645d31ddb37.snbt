@@ -4,7 +4,7 @@
 	god: false
 	nick: ""
 	name: "AkaH"
-	last_seen: { dim: "minecraft:overworld", x: 6, y: 69, z: 92, time: 1735852442121L, xRot: 86.999344f, yRot: 157.47527f }
+	last_seen: { dim: "minecraft:overworld", x: 6, y: 69, z: 92, time: 1735853015106L, xRot: 86.999344f, yRot: 157.47527f }
 	recording: 0
 	teleport_history: [
 		{ dim: "minecraft:overworld", x: -23, y: 77, z: 46, time: 1735847634477L, xRot: 4.049663f, yRot: 91.49575f }
