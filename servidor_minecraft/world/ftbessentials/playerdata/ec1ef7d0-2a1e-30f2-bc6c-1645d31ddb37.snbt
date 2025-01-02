@@ -6,6 +6,12 @@
 	name: "AkaH"
 	last_seen: { dim: "minecraft:overworld", x: -23, y: 77, z: 46, time: 1735848823796L, xRot: 4.049663f, yRot: 91.49575f }
 	recording: 0
-	teleport_history: [{ dim: "minecraft:overworld", x: -23, y: 77, z: 46, time: 1735847634477L, xRot: 4.049663f, yRot: 91.49575f }]
+	teleport_history: [
+		{ dim: "minecraft:overworld", x: -23, y: 77, z: 46, time: 1735847634477L, xRot: 4.049663f, yRot: 91.49575f }
+		{ dim: "minecraft:overworld", x: 19, y: 105, z: 645, time: 1735850016178L, xRot: 2.9998484f, yRot: -18.817017f }
+		{ dim: "minecraft:overworld", x: 1, y: 69, z: 115, time: 1735850026926L, xRot: 11.849901f, yRot: -83.15146f }
+		{ dim: "minecraft:overworld", x: 51, y: 46, z: 104, time: 1735850110634L, xRot: -5.8499537f, yRot: 158.84059f }
+		{ dim: "minecraft:overworld", x: -1, y: 69, z: 113, time: 1735850116676L, xRot: 17.549946f, yRot: -51.650787f }
+	]
 	homes: { }
 }

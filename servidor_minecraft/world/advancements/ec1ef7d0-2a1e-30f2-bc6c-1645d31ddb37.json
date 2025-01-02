@@ -307,7 +307,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "mutton": "2025-01-02 20:21:01 +0000"
+      "mutton": "2025-01-02 20:21:01 +0000",
+      "bread": "2025-01-02 20:27:40 +0000"
     },
     "done": false
   },
@@ -356,6 +357,12 @@
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2025-01-02 18:15:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "redwood_forest": "2025-01-02 20:30:42 +0000"
     },
     "done": true
   },
@@ -587,6 +594,13 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "coniferous_forest": "2025-01-02 20:30:46 +0000",
+      "redwood_forest": "2025-01-02 20:30:42 +0000"
+    },
+    "done": false
+  },
   "majruszsdifficulty:progressive_difficulty/normal_mode": {
     "criteria": {
       "game_state": "2025-01-02 17:54:44 +0000"
@@ -607,8 +621,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-01-02 20:32:13 +0000",
       "minecraft:river": "2025-01-02 20:20:14 +0000",
+      "minecraft:forest": "2025-01-02 20:28:24 +0000",
       "minecraft:flower_forest": "2025-01-02 20:25:31 +0000",
+      "minecraft:meadow": "2025-01-02 20:32:22 +0000",
       "minecraft:plains": "2025-01-02 17:54:45 +0000"
     },
     "done": false
@@ -658,6 +675,12 @@
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:54:44 +0000"
+    },
+    "done": true
+  },
+  "dungeons_plus:adventure/find_tower": {
+    "criteria": {
+      "in_structure": "2025-01-02 20:33:05 +0000"
     },
     "done": true
   },
@@ -747,6 +770,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-01-02 20:33:14 +0000",
       "opened_chest": "2025-01-02 18:15:12 +0000"
     },
     "done": false
@@ -901,6 +925,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "way_sign": "2025-01-02 20:28:35 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:54:44 +0000"
@@ -910,6 +940,12 @@
   "majruszsdifficulty:progressive_difficulty/bleeding": {
     "criteria": {
       "bleeding_applied": "2025-01-02 19:52:48 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-01-02 20:33:14 +0000"
     },
     "done": true
   },

@@ -2095,3 +2095,27 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [02Jan2025 20:22:52.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [I Found It Underground]
 [02Jan2025 20:22:55.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [Ice Bucket Challenge]
 [02Jan2025 20:26:11.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [One Man's Trash]
+[02Jan2025 20:28:35.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [This Must be a Sign!]
+[02Jan2025 20:31:49.395] [Worker-Main-37/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-155, y=-24, z=841}
+[02Jan2025 20:33:05.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [Battle Towers?]
+[02Jan2025 20:33:14.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [Barrel Booty]
+[02Jan2025 20:33:22.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH is bleeding. AkaH was slain by Zombie
+[02Jan2025 20:33:22.381] [Server thread/WARN] [tombstone/]: The death event of the player AkaH was canceled by another mod
+[02Jan2025 20:33:22.432] [Server thread/INFO] [tombstone/]: The player AkaH has successfully been saved
+[02Jan2025 20:33:46.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH was slain by Zombie
+[02Jan2025 20:33:48.987] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Jan2025 20:33:48.987] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Jan2025 20:33:48.988] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Jan2025 20:33:49.006] [Server thread/INFO] [Reputation/]: Syncing 0 factions to the client
+[02Jan2025 20:35:03.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH is bleeding. AkaH was slain by Spider
+[02Jan2025 20:35:03.323] [Server thread/WARN] [tombstone/]: The death event of the player AkaH was canceled by another mod
+[02Jan2025 20:35:03.335] [Server thread/INFO] [tombstone/]: The player AkaH has successfully been saved
+[02Jan2025 20:35:16.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH was slain by Spider
+[02Jan2025 20:35:18.183] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Jan2025 20:35:18.184] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Jan2025 20:35:18.184] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Jan2025 20:35:18.187] [Server thread/INFO] [Reputation/]: Syncing 0 factions to the client
+[02Jan2025 20:35:34.433] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ti'/847, l='ServerLevel[world]', x=46.33, y=62.00, z=81.53] died, message: 'Ti was slain by Cave Spider'
+[02Jan2025 20:35:34.436] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ti'/847, l='ServerLevel[world]', x=46.33, y=62.00, z=81.53] died: Ti was slain by Cave Spider
+[02Jan2025 20:35:46.169] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Hang-Suk'/882, l='ServerLevel[world]', x=72.34, y=68.00, z=76.67] died, message: 'Hang-Suk was burnt to a crisp whilst fighting Cave Spider'
+[02Jan2025 20:35:46.171] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Hang-Suk'/882, l='ServerLevel[world]', x=72.34, y=68.00, z=76.67] died: Hang-Suk was burnt to a crisp whilst fighting Cave Spider
