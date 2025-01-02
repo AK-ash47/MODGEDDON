@@ -2757,3 +2757,50 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [02Jan2025 22:08:25.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ExoticTTV24 has made the advancement [Knowledge of Death]
 [02Jan2025 22:08:25.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ExoticTTV24 has made the advancement [Ambush]
 [02Jan2025 22:08:25.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ExoticTTV24 has made the advancement [Monster Hunter]
+[02Jan2025 22:08:48.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AkaH: Teleported AkaH to catracho13]
+[02Jan2025 22:09:23.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [Monster Hunter]
+[02Jan2025 22:09:41.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [How'd You Get This?]
+[02Jan2025 22:09:59.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AkaH: Teleported AkaH to catracho13]
+[02Jan2025 22:10:09.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 is bleeding. catracho13 was slain by AkaH
+[02Jan2025 22:10:09.227] [Server thread/WARN] [tombstone/]: The death event of the player catracho13 was canceled by another mod
+[02Jan2025 22:10:09.303] [Server thread/INFO] [tombstone/]: The player catracho13 has successfully been saved
+[02Jan2025 22:10:55.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [It Certainly Seems Rare...]
+[02Jan2025 22:11:17.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AkaH: Teleported AkaH to catracho13]
+[02Jan2025 22:11:26.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AkaH: Teleported ExoticTTV24 to catracho13]
+[02Jan2025 22:12:03.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ExoticTTV24 has made the advancement [Bloodthirsty]
+[02Jan2025 22:13:15.760] [Server thread/INFO] [Reputation/]: Syncing 0 factions to the client
+[02Jan2025 22:13:15.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: catracho13 moved wrongly!
+[02Jan2025 22:14:10.025] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "java.util.ArrayList.forEach(java.util.function.Consumer)" because "result" is null
+	at levosilimo.everlastingskins.skinchanger.SkinCommand.lambda$skinAction$35(SkinCommand.java:186) ~[EverlastingSkins-1.18.2-1.0.jar%23103!/:0.0.0.1]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:762) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[02Jan2025 22:14:31.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH is bleeding. AkaH was slain by Spider
+[02Jan2025 22:14:31.124] [Server thread/WARN] [tombstone/]: The death event of the player AkaH was canceled by another mod
+[02Jan2025 22:14:31.138] [Server thread/INFO] [tombstone/]: The player AkaH has successfully been saved
+[02Jan2025 22:14:50.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH is bleeding. AkaH bled to death from injuries caused by Spider
+[02Jan2025 22:14:50.825] [Server thread/WARN] [tombstone/]: The death event of the player AkaH was canceled by another mod
+[02Jan2025 22:14:50.843] [Server thread/INFO] [tombstone/]: The player AkaH has successfully been saved
+[02Jan2025 22:15:14.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH is bleeding. AkaH was slain by AkaH
+[02Jan2025 22:15:14.579] [Server thread/WARN] [tombstone/]: The death event of the player AkaH was canceled by another mod
+[02Jan2025 22:15:14.675] [Server thread/INFO] [tombstone/]: The player AkaH has successfully been saved
+[02Jan2025 22:16:30.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 is bleeding. catracho13 was shot by Skeleton
+[02Jan2025 22:16:30.176] [Server thread/WARN] [tombstone/]: The death event of the player catracho13 was canceled by another mod
+[02Jan2025 22:16:30.189] [Server thread/INFO] [tombstone/]: The player catracho13 has successfully been saved
+[02Jan2025 22:16:43.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 is bleeding. catracho13 was shot by Skeleton
+[02Jan2025 22:16:43.726] [Server thread/WARN] [tombstone/]: The death event of the player catracho13 was canceled by another mod
+[02Jan2025 22:16:43.753] [Server thread/INFO] [tombstone/]: The player catracho13 has successfully been saved
+[02Jan2025 22:17:11.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ExoticTTV24 is bleeding. ExoticTTV24 was slain by ExoticTTV24
+[02Jan2025 22:17:11.725] [Server thread/WARN] [tombstone/]: The death event of the player ExoticTTV24 was canceled by another mod
+[02Jan2025 22:17:11.808] [Server thread/INFO] [tombstone/]: The player ExoticTTV24 has successfully been saved

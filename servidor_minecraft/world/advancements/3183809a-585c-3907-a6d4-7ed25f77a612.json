@@ -119,6 +119,18 @@
     },
     "done": true
   },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2025-01-02 22:14:37 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/bleeding_inflicted": {
+    "criteria": {
+      "bleeding_applied": "2025-01-02 22:12:03 +0000"
+    },
+    "done": true
+  },
   "mcwfencesbop:recipes/orange_autumn_hedge": {
     "criteria": {
       "has_birch": "2025-01-02 21:46:40 +0000"
@@ -280,6 +292,12 @@
       "has_the_recipe": "2025-01-02 21:46:40 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-01-02 22:16:29 +0000"
+    },
+    "done": false
   },
   "mcwfencesbop:recipes/palm_hedge": {
     "criteria": {
@@ -479,11 +497,23 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:witch": "2025-01-02 22:08:25 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-01-02 21:46:40 +0000"
     },
     "done": false
+  },
+  "apotheosis:affix/common": {
+    "criteria": {
+      "sword": "2025-01-02 22:07:40 +0000"
+    },
+    "done": true
   },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
@@ -566,6 +596,12 @@
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-01-02 21:46:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-02 22:16:29 +0000"
     },
     "done": true
   },
@@ -695,6 +731,13 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-01-02 22:14:36 +0000",
+      "minecraft:witch": "2025-01-02 22:08:25 +0000"
+    },
+    "done": false
+  },
   "mcwfences:recipes/quartz": {
     "criteria": {
       "has_qq": "2025-01-02 21:46:40 +0000"
@@ -785,6 +828,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 22:08:25 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-01-02 21:46:40 +0000"
@@ -821,9 +870,21 @@
     },
     "done": true
   },
+  "majruszsdifficulty:progressive_difficulty/bleeding": {
+    "criteria": {
+      "bleeding_applied": "2025-01-02 22:06:47 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-01-02 21:46:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 22:08:25 +0000"
     },
     "done": true
   },

@@ -503,6 +503,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:drowned": "2025-01-02 22:06:51 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-01-02 21:24:04 +0000"
@@ -702,6 +708,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-01-02 22:06:52 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-02 21:24:04 +0000"
@@ -755,6 +767,13 @@
       "has_birch": "2025-01-02 21:24:04 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-01-02 22:13:59 +0000",
+      "minecraft:drowned": "2025-01-02 22:06:51 +0000"
+    },
+    "done": false
   },
   "mcwfences:recipes/quartz": {
     "criteria": {
@@ -849,6 +868,12 @@
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-01-02 21:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-02 22:06:52 +0000"
     },
     "done": true
   },
