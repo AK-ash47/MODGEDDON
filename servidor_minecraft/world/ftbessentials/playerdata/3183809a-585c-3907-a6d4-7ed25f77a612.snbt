@@ -1,0 +1,14 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	name: "ExoticTTV24"
+	last_seen: { dim: "minecraft:overworld", x: -1, y: 70, z: 65, time: 1735855009725L, xRot: 20.699898f, yRot: 76.660164f }
+	recording: 0
+	teleport_history: [
+		{ dim: "minecraft:overworld", x: 1, y: 72, z: 121, time: 1735854479209L, xRot: 30.449984f, yRot: -139.49886f }
+		{ dim: "minecraft:overworld", x: -5, y: 69, z: 90, time: 1735854732309L, xRot: 2.399644f, yRot: 166.88635f }
+	]
+	homes: { }
+}

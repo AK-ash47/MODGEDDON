@@ -1,0 +1,17 @@
+{
+	id: "3183809a-585c-3907-a6d4-7ed25f77a612"
+	type: "player"
+	player_name: "ExoticTTV24"
+	ranks: {
+		3183809a-585c-3907-a6d4-7ed25f77a612: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ExoticTTV24"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9959FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

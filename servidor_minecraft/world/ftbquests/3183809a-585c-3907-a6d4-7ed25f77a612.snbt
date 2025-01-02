@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "3183809a585c3907a6d47ed25f77a612"
+	name: "ExoticTTV24"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
