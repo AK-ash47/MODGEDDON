@@ -21786,3 +21786,7 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [02Jan2025 19:53:54.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [Your First Grave]
 [02Jan2025 19:53:54.491] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of AkaH
 [02Jan2025 19:53:54.492] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AkaH
+[02Jan2025 19:56:30.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 19:56:30.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 20:01:30.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 20:01:30.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
