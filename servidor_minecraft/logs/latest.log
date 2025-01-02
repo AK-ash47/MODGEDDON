@@ -2143,3 +2143,14 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [02Jan2025 20:42:53.629] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
 [02Jan2025 20:42:53.630] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [02Jan2025 20:42:53.632] [Server thread/INFO] [Reputation/]: Syncing 0 factions to the client
+[02Jan2025 20:53:25.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH is bleeding. AkaH was doomed to fall by Lobber Zombie
+[02Jan2025 20:53:25.581] [Server thread/WARN] [tombstone/]: The death event of the player AkaH was canceled by another mod
+[02Jan2025 20:53:25.591] [Server thread/INFO] [tombstone/]: The player AkaH has successfully been saved
+[02Jan2025 20:53:35.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH was doomed to fall by Lobber Zombie
+[02Jan2025 20:53:37.373] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Jan2025 20:53:37.374] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Jan2025 20:53:37.375] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Jan2025 20:53:37.378] [Server thread/INFO] [Reputation/]: Syncing 0 factions to the client
+[02Jan2025 20:53:40.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AkaH: Gave 1    [Ender Pearl] to AkaH]
+[02Jan2025 20:54:24.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has reached the goal [Skyslime Island]
+[02Jan2025 20:56:06.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [Acquire Hardware]

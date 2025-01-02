@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2025-01-02 20:56:06 +0000"
+    },
+    "done": true
+  },
   "mcwfencesbop:recipes/orange_autumn_hedge": {
     "criteria": {
       "has_birch": "2025-01-02 17:54:44 +0000"
@@ -360,6 +366,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-01-02 20:56:06 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:54:44 +0000"
@@ -465,6 +477,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-01-02 20:23:52 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-01-02 20:56:06 +0000"
     },
     "done": true
   },
@@ -729,6 +747,13 @@
     },
     "done": true
   },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "sky": "2025-01-02 20:54:38 +0000",
+      "earth": "2025-01-02 20:54:32 +0000"
+    },
+    "done": false
+  },
   "mcwfencesbop:recipes/cherry": {
     "criteria": {
       "has_acacia": "2025-01-02 17:54:44 +0000"
@@ -856,6 +881,12 @@
     },
     "done": true
   },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2025-01-02 20:54:24 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:54:44 +0000"
@@ -973,6 +1004,12 @@
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "way_sign": "2025-01-02 20:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-02 20:56:06 +0000"
     },
     "done": true
   },
