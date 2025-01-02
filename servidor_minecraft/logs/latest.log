@@ -2318,3 +2318,21 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [02Jan2025 21:27:32.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 is bleeding. catracho13 was doomed to fall by Skeleton
 [02Jan2025 21:27:32.277] [Server thread/WARN] [tombstone/]: The death event of the player catracho13 was canceled by another mod
 [02Jan2025 21:27:32.309] [Server thread/INFO] [tombstone/]: The player catracho13 has successfully been saved
+[02Jan2025 21:29:44.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AkaH: Teleported AkaH to catracho13]
+[02Jan2025 21:29:57.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 has made the advancement [One Man's Trash]
+[02Jan2025 21:29:57.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 has made the advancement [A Stunning Fixation]
+[02Jan2025 21:29:57.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 has made the advancement [I Found It Underground]
+[02Jan2025 21:29:59.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 is bleeding. catracho13 was slain by Raccoon
+[02Jan2025 21:29:59.773] [Server thread/WARN] [tombstone/]: The death event of the player catracho13 was canceled by another mod
+[02Jan2025 21:29:59.785] [Server thread/INFO] [tombstone/]: The player catracho13 has successfully been saved
+[02Jan2025 21:30:32.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 has made the advancement [Alex's Mobs]
+[02Jan2025 21:31:07.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AkaH: Teleported AkaH to catracho13]
+[02Jan2025 21:32:15.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 has made the advancement ['X' Marks the Spot]
+[02Jan2025 21:32:16.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has reached the goal [Easy Opening]
+[02Jan2025 21:32:16.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [Alex's Mobs]
+[02Jan2025 21:32:17.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 has made the advancement [Suit Up]
+[02Jan2025 21:32:17.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 has made the advancement [Not Quite Common]
+[02Jan2025 21:32:19.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 has made the advancement [An Ancient Crystal]
+[02Jan2025 21:33:33.023] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkaH lost connection: Disconnected
+[02Jan2025 21:33:33.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH left the game
+[02Jan2025 21:33:33.024] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AkaH

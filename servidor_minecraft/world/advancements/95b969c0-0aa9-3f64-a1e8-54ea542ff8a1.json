@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-01-02 21:32:15 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2025-01-02 21:24:04 +0000"
@@ -200,6 +206,12 @@
   "mcwfencesbop:recipes/pink_cherry_hedge": {
     "criteria": {
       "has_birch": "2025-01-02 21:24:04 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-01-02 21:29:57 +0000"
     },
     "done": true
   },
@@ -275,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-01-02 21:30:24 +0000"
+    },
+    "done": false
+  },
   "mcwfencesbop:recipes/palm_hedge": {
     "criteria": {
       "has_birch": "2025-01-02 21:24:04 +0000"
@@ -308,6 +326,12 @@
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-02 21:24:04 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-01-02 21:32:19 +0000"
     },
     "done": true
   },
@@ -467,6 +491,18 @@
     },
     "done": false
   },
+  "apotheosis:affix/common": {
+    "criteria": {
+      "sword": "2025-01-02 21:29:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-01-02 21:32:17 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-02 21:24:04 +0000"
@@ -551,6 +587,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-02 21:30:24 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/nether": {
     "criteria": {
       "has_nether_brick": "2025-01-02 21:24:04 +0000"
@@ -566,6 +608,12 @@
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-01-02 21:24:04 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-01-02 21:29:57 +0000"
     },
     "done": true
   },
@@ -623,11 +671,23 @@
     },
     "done": true
   },
+  "apotheosis:affix/uncommon": {
+    "criteria": {
+      "sword": "2025-01-02 21:32:17 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2025-01-02 21:24:04 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-01-02 21:32:15 +0000"
+    },
+    "done": false
   },
   "mcwfences:recipes/acacia": {
     "criteria": {
@@ -755,6 +815,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-01-02 21:30:32 +0000"
+    },
+    "done": true
+  },
   "mcwfencesbop:recipes/white_cherry_hedge": {
     "criteria": {
       "has_birch": "2025-01-02 21:24:04 +0000"
@@ -782,6 +848,12 @@
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-01-02 21:24:04 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/bleeding": {
+    "criteria": {
+      "bleeding_applied": "2025-01-02 21:27:05 +0000"
     },
     "done": true
   },
