@@ -2842,3 +2842,49 @@ java.lang.NullPointerException: Cannot invoke "java.util.ArrayList.forEach(java.
 [02Jan2025 22:28:30.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 is bleeding. catracho13 was killed by Creeper using magic
 [02Jan2025 22:28:30.775] [Server thread/WARN] [tombstone/]: The death event of the player catracho13 was canceled by another mod
 [02Jan2025 22:28:30.800] [Server thread/INFO] [tombstone/]: The player catracho13 has successfully been saved
+[02Jan2025 22:29:30.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 was killed by Creeper using magic
+[02Jan2025 22:29:32.924] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Jan2025 22:29:32.925] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Jan2025 22:29:32.926] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Jan2025 22:29:32.927] [Server thread/INFO] [Reputation/]: Syncing 0 factions to the client
+[02Jan2025 22:30:20.820] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Suk-Soon'/922, l='ServerLevel[world]', x=47.50, y=40.77, z=20.65] died: Suk-Soon suffocated in a wall
+[02Jan2025 22:31:10.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ExoticTTV24 is bleeding. ExoticTTV24 was slain by catracho13
+[02Jan2025 22:31:10.474] [Server thread/WARN] [tombstone/]: The death event of the player ExoticTTV24 was canceled by another mod
+[02Jan2025 22:31:10.559] [Server thread/INFO] [tombstone/]: The player ExoticTTV24 has successfully been saved
+[02Jan2025 22:31:23.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 is bleeding. catracho13 hit the ground too hard whilst trying to escape AkaH
+[02Jan2025 22:31:23.625] [Server thread/WARN] [tombstone/]: The death event of the player catracho13 was canceled by another mod
+[02Jan2025 22:31:23.636] [Server thread/INFO] [tombstone/]: The player catracho13 has successfully been saved
+[02Jan2025 22:32:16.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AkaH: Teleported AkaH to catracho13]
+[02Jan2025 22:32:27.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AkaH: Teleported AkaH to catracho13]
+[02Jan2025 22:32:35.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AkaH: Teleported AkaH to catracho13]
+[02Jan2025 22:33:01.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [Bloodthirsty]
+[02Jan2025 22:33:15.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [A Strange Grave Dust]
+[02Jan2025 22:33:25.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 is bleeding. catracho13 was shot by Creeper
+[02Jan2025 22:33:25.375] [Server thread/WARN] [tombstone/]: The death event of the player catracho13 was canceled by another mod
+[02Jan2025 22:33:25.386] [Server thread/INFO] [tombstone/]: The player catracho13 has successfully been saved
+[02Jan2025 22:33:28.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AkaH: Teleported AkaH to catracho13]
+[02Jan2025 22:33:32.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH is bleeding. AkaH was doomed to fall by Zombie
+[02Jan2025 22:33:32.826] [Server thread/WARN] [tombstone/]: The death event of the player AkaH was canceled by another mod
+[02Jan2025 22:33:32.838] [Server thread/INFO] [tombstone/]: The player AkaH has successfully been saved
+[02Jan2025 22:34:30.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AkaH: Teleported AkaH to ExoticTTV24]
+[02Jan2025 22:34:41.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 is bleeding. catracho13 hit the ground too hard
+[02Jan2025 22:34:41.011] [Server thread/WARN] [tombstone/]: The death event of the player catracho13 was canceled by another mod
+[02Jan2025 22:34:41.025] [Server thread/INFO] [tombstone/]: The player catracho13 has successfully been saved
+[02Jan2025 22:34:43.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AkaH: Teleported catracho13 to ExoticTTV24]
+[02Jan2025 22:34:56.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH is bleeding. AkaH was shot by Skeleton
+[02Jan2025 22:34:56.375] [Server thread/WARN] [tombstone/]: The death event of the player AkaH was canceled by another mod
+[02Jan2025 22:34:56.400] [Server thread/INFO] [tombstone/]: The player AkaH has successfully been saved
+[02Jan2025 22:34:57.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AkaH: Teleported AkaH to ExoticTTV24]
+[02Jan2025 22:37:01.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ExoticTTV24 is bleeding. ExoticTTV24 was slain by catracho13
+[02Jan2025 22:37:01.577] [Server thread/WARN] [tombstone/]: The death event of the player ExoticTTV24 was canceled by another mod
+[02Jan2025 22:37:01.687] [Server thread/INFO] [tombstone/]: The player ExoticTTV24 has successfully been saved
+[02Jan2025 22:37:57.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 has made the advancement [Bloodthirsty]
+[02Jan2025 22:37:59.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ExoticTTV24 is bleeding. ExoticTTV24 was slain by AkaH
+[02Jan2025 22:37:59.605] [Server thread/WARN] [tombstone/]: The death event of the player ExoticTTV24 was canceled by another mod
+[02Jan2025 22:37:59.727] [Server thread/INFO] [tombstone/]: The player ExoticTTV24 has successfully been saved
+[02Jan2025 22:38:38.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 is bleeding. catracho13 was slain by ExoticTTV24
+[02Jan2025 22:38:38.025] [Server thread/WARN] [tombstone/]: The death event of the player catracho13 was canceled by another mod
+[02Jan2025 22:38:38.145] [Server thread/INFO] [tombstone/]: The player catracho13 has successfully been saved
+[02Jan2025 22:38:55.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 is bleeding. catracho13 bled to death from injuries caused by ExoticTTV24
+[02Jan2025 22:38:55.528] [Server thread/WARN] [tombstone/]: The death event of the player catracho13 was canceled by another mod
+[02Jan2025 22:38:55.604] [Server thread/INFO] [tombstone/]: The player catracho13 has successfully been saved
