@@ -2888,3 +2888,40 @@ java.lang.NullPointerException: Cannot invoke "java.util.ArrayList.forEach(java.
 [02Jan2025 22:38:55.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 is bleeding. catracho13 bled to death from injuries caused by ExoticTTV24
 [02Jan2025 22:38:55.528] [Server thread/WARN] [tombstone/]: The death event of the player catracho13 was canceled by another mod
 [02Jan2025 22:38:55.604] [Server thread/INFO] [tombstone/]: The player catracho13 has successfully been saved
+[02Jan2025 22:38:58.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH is bleeding. AkaH was slain by Zombie
+[02Jan2025 22:38:58.831] [Server thread/WARN] [tombstone/]: The death event of the player AkaH was canceled by another mod
+[02Jan2025 22:38:58.846] [Server thread/INFO] [tombstone/]: The player AkaH has successfully been saved
+[02Jan2025 22:39:13.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 is bleeding. catracho13 was slain by ExoticTTV24
+[02Jan2025 22:39:13.274] [Server thread/WARN] [tombstone/]: The death event of the player catracho13 was canceled by another mod
+[02Jan2025 22:39:13.359] [Server thread/INFO] [tombstone/]: The player catracho13 has successfully been saved
+[02Jan2025 22:40:55.910] [Server thread/ERROR] [net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece/]: Input does not contain a key [element_type]: MapLike[{}]
+[02Jan2025 22:40:55.910] [Server thread/ERROR] [net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer/]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid pool element found
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.m_163129_(PoolElementStructurePiece.java:54) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.<init>(PoolElementStructurePiece.java:54) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer.m_192753_(PiecesContainer.java:73) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at net.minecraft.world.level.levelgen.feature.StructureFeature.m_191128_(StructureFeature.java:124) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.m_188254_(ChunkSerializer.java:464) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.m_188230_(ChunkSerializer.java:196) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at net.minecraft.server.level.ChunkMap.m_203107_(ChunkMap.java:543) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:542) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:550) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_8466_(ServerChunkCache.java:266) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:787) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:762) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23227!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[02Jan2025 22:42:27.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 has made the advancement [That's No Carrot...]
+[02Jan2025 22:46:57.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [A Seedy Place]
+[02Jan2025 22:48:11.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AkaH: Teleported AkaH to ExoticTTV24]
+[02Jan2025 22:48:19.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AkaH: Teleported AkaH to catracho13]
+[02Jan2025 22:48:56.327] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExoticTTV24 lost connection: Disconnected
+[02Jan2025 22:48:56.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ExoticTTV24 left the game
+[02Jan2025 22:48:56.329] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ExoticTTV24

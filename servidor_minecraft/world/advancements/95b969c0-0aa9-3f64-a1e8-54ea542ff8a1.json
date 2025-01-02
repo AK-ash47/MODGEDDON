@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:progressive_difficulty/bleeding_inflicted": {
+    "criteria": {
+      "bleeding_applied": "2025-01-02 22:37:57 +0000"
+    },
+    "done": true
+  },
   "mcwfencesbop:recipes/orange_autumn_hedge": {
     "criteria": {
       "has_birch": "2025-01-02 21:24:04 +0000"
@@ -301,7 +307,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-01-02 21:30:24 +0000"
+      "bread": "2025-01-02 21:30:24 +0000",
+      "rotten_flesh": "2025-01-02 22:43:05 +0000"
     },
     "done": false
   },
@@ -626,6 +633,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-01-02 22:05:06 +0000",
+      "minecraft:forest": "2025-01-02 22:43:43 +0000",
+      "minecraft:windswept_savanna": "2025-01-02 22:45:31 +0000",
       "minecraft:plains": "2025-01-02 21:24:04 +0000"
     },
     "done": false
@@ -948,6 +957,12 @@
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-01-02 21:24:04 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:aubergine": {
+    "criteria": {
+      "aubergine": "2025-01-02 22:42:27 +0000"
     },
     "done": true
   },
