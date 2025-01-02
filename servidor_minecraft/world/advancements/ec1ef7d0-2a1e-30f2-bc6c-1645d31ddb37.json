@@ -13,7 +13,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 20:58:31 +0000"
+      "log_spam_fixer": "2025-01-02 21:13:31 +0000"
     },
     "done": false
   },
@@ -175,7 +175,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 20:58:31 +0000"
+      "log_spam_fixer": "2025-01-02 21:13:31 +0000"
     },
     "done": false
   },
@@ -588,17 +588,17 @@
     },
     "done": false
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 20:58:31 +0000"
-    },
-    "done": false
-  },
   "apotheosis:affix/common": {
     "criteria": {
       "sword": "2025-01-02 20:26:11 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-02 21:13:31 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
@@ -642,12 +642,6 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-01-02 20:36:53 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "marsh": "2025-01-02 20:42:10 +0000",
@@ -655,6 +649,12 @@
       "redwood_forest": "2025-01-02 20:30:42 +0000"
     },
     "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-02 20:36:53 +0000"
+    },
+    "done": true
   },
   "majruszsdifficulty:progressive_difficulty/normal_mode": {
     "criteria": {
@@ -664,7 +664,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 20:58:31 +0000"
+      "log_spam_fixer": "2025-01-02 21:13:31 +0000"
     },
     "done": false
   },
@@ -798,13 +798,13 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 20:58:31 +0000"
+      "log_spam_fixer": "2025-01-02 21:13:31 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 20:58:31 +0000"
+      "log_spam_fixer": "2025-01-02 21:13:31 +0000"
     },
     "done": false
   },
@@ -875,17 +875,17 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 20:58:31 +0000"
-    },
-    "done": false
-  },
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-01-02 20:41:37 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-02 21:13:31 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_gray_from_white": {
     "criteria": {
@@ -901,8 +901,8 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-01-02 20:58:35 +0000",
-      "log_spam_fixer": "2025-01-02 20:58:31 +0000"
+      "requirement": "2025-01-02 21:13:47 +0000",
+      "log_spam_fixer": "2025-01-02 21:13:31 +0000"
     },
     "done": true
   },
@@ -920,7 +920,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 20:58:31 +0000"
+      "log_spam_fixer": "2025-01-02 21:13:31 +0000"
     },
     "done": false
   },
@@ -1088,7 +1088,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 20:58:31 +0000"
+      "log_spam_fixer": "2025-01-02 21:13:31 +0000"
     },
     "done": false
   },
