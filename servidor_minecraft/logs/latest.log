@@ -3025,3 +3025,33 @@ java.lang.IllegalStateException: Invalid pool element found
 [02Jan2025 23:09:09.654] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [02Jan2025 23:09:09.655] [Server thread/INFO] [Reputation/]: Syncing 0 factions to the client
 [02Jan2025 23:09:10.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AkaH: Teleported MENTAALJOSE to AkaH]
+[02Jan2025 23:09:34.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AkaH> tpe
+[02Jan2025 23:09:55.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AkaH> es tpa
+[02Jan2025 23:10:02.225] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: catracho13 lost connection: Disconnected
+[02Jan2025 23:10:02.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: catracho13 left the game
+[02Jan2025 23:10:02.226] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client catracho13
+[02Jan2025 23:10:04.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ExoticTTV24> tpa
+[02Jan2025 23:10:12.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MENTAALJOSE has made the advancement [Is this... blood?]
+[02Jan2025 23:10:13.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MENTAALJOSE is bleeding. MENTAALJOSE was slain by Spider
+[02Jan2025 23:10:13.773] [Server thread/WARN] [tombstone/]: The death event of the player MENTAALJOSE was canceled by another mod
+[02Jan2025 23:10:13.786] [Server thread/INFO] [tombstone/]: The player MENTAALJOSE has successfully been saved
+[02Jan2025 23:10:17.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ExoticTTV24 is bleeding. ExoticTTV24 was slain by Spider
+[02Jan2025 23:10:17.827] [Server thread/WARN] [tombstone/]: The death event of the player ExoticTTV24 was canceled by another mod
+[02Jan2025 23:10:17.838] [Server thread/INFO] [tombstone/]: The player ExoticTTV24 has successfully been saved
+[02Jan2025 23:10:24.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MENTAALJOSE is bleeding. MENTAALJOSE was slain by Spider
+[02Jan2025 23:10:24.822] [Server thread/WARN] [tombstone/]: The death event of the player MENTAALJOSE was canceled by another mod
+[02Jan2025 23:10:24.833] [Server thread/INFO] [tombstone/]: The player MENTAALJOSE has successfully been saved
+[02Jan2025 23:15:43.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AkaH: Teleported MENTAALJOSE to AkaH]
+[02Jan2025 23:15:44.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MENTAALJOSE has made the advancement [Alex's Mobs]
+[02Jan2025 23:15:55.461] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2300ms or 46 ticks behind
+[02Jan2025 23:17:44.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MENTAALJOSE is bleeding. MENTAALJOSE bled to death from injuries caused by Cave Spider
+[02Jan2025 23:17:44.840] [Server thread/WARN] [tombstone/]: The death event of the player MENTAALJOSE was canceled by another mod
+[02Jan2025 23:17:44.851] [Server thread/INFO] [tombstone/]: The player MENTAALJOSE has successfully been saved
+[02Jan2025 23:18:39.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MENTAALJOSE has made the advancement [Getting an Upgrade]
+[02Jan2025 23:18:40.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MENTAALJOSE has made the advancement [A Stunning Fixation]
+[02Jan2025 23:18:40.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MENTAALJOSE has made the advancement [Suit Up]
+[02Jan2025 23:18:40.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MENTAALJOSE has made the advancement [Not Quite Common]
+[02Jan2025 23:18:40.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MENTAALJOSE has made the advancement [I Found It Underground]
+[02Jan2025 23:18:46.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ExoticTTV24 is bleeding. ExoticTTV24 was slain by Firelight
+[02Jan2025 23:18:46.075] [Server thread/WARN] [tombstone/]: The death event of the player ExoticTTV24 was canceled by another mod
+[02Jan2025 23:18:46.087] [Server thread/INFO] [tombstone/]: The player ExoticTTV24 has successfully been saved
