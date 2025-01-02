@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 23:02:44 +0000"
+    },
+    "done": true
+  },
   "mcwfencesbop:recipes/umbran": {
     "criteria": {
       "has_acacia": "2025-01-02 17:54:44 +0000"
@@ -355,6 +361,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "potato": "2025-01-02 23:05:25 +0000",
       "mutton": "2025-01-02 20:21:01 +0000",
       "bread": "2025-01-02 20:27:40 +0000"
     },
@@ -717,6 +724,7 @@
       "minecraft:river": "2025-01-02 20:20:14 +0000",
       "minecraft:swamp": "2025-01-02 20:39:03 +0000",
       "minecraft:forest": "2025-01-02 20:28:24 +0000",
+      "minecraft:windswept_savanna": "2025-01-02 22:48:19 +0000",
       "minecraft:flower_forest": "2025-01-02 20:25:31 +0000",
       "minecraft:meadow": "2025-01-02 20:32:22 +0000",
       "minecraft:plains": "2025-01-02 17:54:45 +0000"
@@ -841,6 +849,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-01-02 19:53:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-02 22:46:57 +0000"
     },
     "done": true
   },

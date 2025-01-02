@@ -1,0 +1,17 @@
+{
+	id: "868fab52-a4dc-30c5-b753-f6fe971558c5"
+	type: "player"
+	player_name: "MENTAALJOSE"
+	ranks: {
+		868fab52-a4dc-30c5-b753-f6fe971558c5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MENTAALJOSE"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D0FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

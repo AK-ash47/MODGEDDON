@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "868fab52a4dc30c5b753f6fe971558c5"
+	name: "MENTAALJOSE"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

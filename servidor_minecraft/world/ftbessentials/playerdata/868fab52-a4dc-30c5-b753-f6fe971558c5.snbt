@@ -1,0 +1,15 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	name: "MENTAALJOSE"
+	last_seen: { dim: "minecraft:overworld", x: 3, y: 72, z: 122, time: 1735858947377L, xRot: 0.0f, yRot: 0.0f }
+	recording: 0
+	teleport_history: [
+		{ dim: "minecraft:overworld", x: 3, y: 72, z: 122, time: 1735859055807L, xRot: 0.0f, yRot: 0.0f }
+		{ dim: "minecraft:overworld", x: 49, y: 65, z: 20, time: 1735859060878L, xRot: 17.99972f, yRot: -14.098816f }
+		{ dim: "minecraft:overworld", x: 43, y: 65, z: 27, time: 1735859076639L, xRot: 24.449703f, yRot: -139.1972f }
+	]
+	homes: { }
+}

@@ -4,7 +4,7 @@
 	god: false
 	nick: ""
 	name: "ExoticTTV24"
-	last_seen: { dim: "minecraft:overworld", x: 83, y: 64, z: 101, time: 1735858136328L, xRot: 3.0001974f, yRot: 129.68567f }
+	last_seen: { dim: "minecraft:overworld", x: 83, y: 64, z: 101, time: 1735859091634L, xRot: 3.0001974f, yRot: 129.68567f }
 	recording: 0
 	teleport_history: [
 		{ dim: "minecraft:overworld", x: 1, y: 72, z: 121, time: 1735854479209L, xRot: 30.449984f, yRot: -139.49886f }
