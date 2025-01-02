@@ -22280,3 +22280,104 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [02Jan2025 20:16:30.487] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 0] Saved.
 [02Jan2025 20:16:30.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jan2025 20:16:30.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 20:18:20.049] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:oak_house
+[02Jan2025 20:18:20.054] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_7x7
+[02Jan2025 20:18:23.064] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1
+[02Jan2025 20:18:23.099] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor
+[02Jan2025 20:18:24.680] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:campsite/base_1
+[02Jan2025 20:18:42.766] [Worker-Main-35/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:ghosttown/roads/street_04
+[02Jan2025 20:19:50.783] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/grand_heaven_portal_4
+[02Jan2025 20:20:04.176] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:pyramids/mushroom_body
+[02Jan2025 20:20:04.181] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[02Jan2025 20:20:12.807] [Worker-Main-37/WARN] [ModernFix/]: The namespace yungsbridges contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02Jan2025 20:20:12.808] [Worker-Main-37/DEBUG] [ModernFix/]: Structure yungsbridges:bridge/stone/22_0 is being run through DFU (hash c1ff11724d4bf7dbf3996ffb938af2466c4e4a720ec467dbd3beaa72c7cde457), this will cause launch time delays
+[02Jan2025 20:20:13.539] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:ghosttown/roads/street_01
+[02Jan2025 20:20:18.425] [Worker-Main-35/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[1, -1]
+[02Jan2025 20:20:19.302] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:statues/statue_3
+[02Jan2025 20:20:19.321] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:statues/statue_2
+[02Jan2025 20:20:21.594] [Worker-Main-35/WARN] [ModernFix/]: The namespace infernalexp contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02Jan2025 20:20:21.595] [Worker-Main-35/DEBUG] [ModernFix/]: Structure infernalexp:glowstone_canyon/grand_heaven_portal_5 is being run through DFU (hash 3f1f5d1aa4a2d6eab3f2363fb7fb7b99ef85dd458197d26cf125fa17c5b99b26), this will cause launch time delays
+[02Jan2025 20:20:22.655] [Worker-Main-37/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[1, 0]
+[02Jan2025 20:20:33.381] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@7c97006d for service interface com.blamejared.clumps.platform.IEventHelper
+[02Jan2025 20:20:33.381] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@37ad1fb5 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[02Jan2025 20:20:44.875] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:pyramids/giant_tree_taiga_body
+[02Jan2025 20:20:44.885] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:pyramids/snowy_body
+[02Jan2025 20:20:44.893] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:pyramids/badlands_body
+[02Jan2025 20:20:44.901] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:pyramids/dark_forest_body
+[02Jan2025 20:20:44.908] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:pyramids/jungle_body
+[02Jan2025 20:20:44.915] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:pyramids/flower_forest_body
+[02Jan2025 20:20:44.922] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:pyramids/icy_body
+[02Jan2025 20:20:44.929] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:pyramids/ocean_body
+[02Jan2025 20:20:57.143] [Worker-Main-36/DEBUG] [ModernFix/]: Structure infernalexp:glowstone_canyon/half_arch_ruin is being run through DFU (hash 188744e6b40a017745ef7e4088f20b4cbb279fe2abd0a4b275479b147968a162), this will cause launch time delays
+[02Jan2025 20:20:57.800] [Worker-Main-35/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:terracotta2
+[02Jan2025 20:21:00.230] [Worker-Main-35/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:birch_house
+[02Jan2025 20:21:00.283] [Worker-Main-35/DEBUG] [ModernFix/]: Structure humancompanions:desert is being run through DFU (hash bff83e642b90fb5f0a194ce67b073fdbecfb5773ebdceebe8feebee367517cf0), this will cause launch time delays
+[02Jan2025 20:21:07.099] [Server thread/ERROR] [net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece/]: Element Reference{ResourceKey[minecraft:worldgen/processor_list / minecraft:empty]=ProcessorList[[]]} is not valid in current registry set
+[02Jan2025 20:21:27.131] [Worker-Main-37/WARN] [ModernFix/]: The namespace dungeons_plus contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02Jan2025 20:21:27.132] [Worker-Main-37/DEBUG] [ModernFix/]: Structure dungeons_plus:tower/top/full is being run through DFU (hash 6377dfb63876d4a3609c5382b68c7e1a50c57dc9bb1fcfcffd3afbcb49ec2338), this will cause launch time delays
+[02Jan2025 20:21:30.485] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 0] Saved.
+[02Jan2025 20:21:30.487] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -1] Saved.
+[02Jan2025 20:21:30.491] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[02Jan2025 20:21:30.492] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -1] Saved.
+[02Jan2025 20:21:30.494] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 0] Saved.
+[02Jan2025 20:21:30.497] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 0] Saved.
+[02Jan2025 20:21:30.524] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 20:21:30.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 20:21:32.645] [Worker-Main-37/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[0, 1]
+[02Jan2025 20:21:34.384] [Worker-Main-35/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[1, 1]
+[02Jan2025 20:21:39.207] [Worker-Main-37/WARN] [ModernFix/]: The namespace tconstruct contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02Jan2025 20:21:39.207] [Worker-Main-37/DEBUG] [ModernFix/]: Structure tconstruct:slime_islands/sky/earth_0x1x0 is being run through DFU (hash 202d68e27508f2cb4ab1279fc37d6dcf53c66ef4f24a6c812f46b6a91df35055), this will cause launch time delays
+[02Jan2025 20:21:39.588] [Worker-Main-35/DEBUG] [ModernFix/]: Structure humancompanions:spruce_house is being run through DFU (hash 5d065486c5507a1bf1939aeabc66c5bf16508824a2432c61ab70328cd6fd1670), this will cause launch time delays
+[02Jan2025 20:21:39.597] [Worker-Main-35/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:terracotta_double
+[02Jan2025 20:21:39.605] [Worker-Main-35/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:desert_double
+[02Jan2025 20:21:41.933] [Worker-Main-37/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-1, 1]
+[02Jan2025 20:21:45.914] [Worker-Main-37/WARN] [ModernFix/]: The namespace repurposed_structures contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02Jan2025 20:21:45.914] [Worker-Main-37/DEBUG] [ModernFix/]: Structure repurposed_structures:dungeons/snow_1 is being run through DFU (hash 62e94ce8b924a980f76bdedbe3fab590231d637743df80064cb75eb5abe98303), this will cause launch time delays
+[02Jan2025 20:21:46.088] [Worker-Main-37/DEBUG] [ModernFix/]: Structure repurposed_structures:dungeons/snow_2 is being run through DFU (hash 33a4d135de8918ffa3dd2566ea242f72bdd391f4544056186597d503819073a2), this will cause launch time delays
+[02Jan2025 20:21:46.588] [Worker-Main-37/DEBUG] [ModernFix/]: Structure repurposed_structures:dungeons/snow_3 is being run through DFU (hash 929f9fd0760bd20e61524dd703da7be4a6500bf8241553505a299810a13e86c5), this will cause launch time delays
+[02Jan2025 20:21:47.430] [Worker-Main-35/DEBUG] [ModernFix/]: Structure repurposed_structures:mineshafts/icy/room is being run through DFU (hash 0e75b5d426fc6a95b5bc8f3c25cf4c145299eb46d55934c3e019465e97aeee59), this will cause launch time delays
+[02Jan2025 20:21:47.516] [Worker-Main-35/DEBUG] [ModernFix/]: Structure repurposed_structures:mineshafts/icy/tunnel_rails_4 is being run through DFU (hash 1c70e25ff0cf2307f8722e9956e510e1730fde1e650c24491b7adc2754b9fe53), this will cause launch time delays
+[02Jan2025 20:21:47.520] [Worker-Main-35/DEBUG] [ModernFix/]: Structure repurposed_structures:mineshafts/icy/stairs is being run through DFU (hash 8d14e0c88d4736af04453cfd26ae27c920cb8bf07e1e56a75b481dfa873b48c6), this will cause launch time delays
+[02Jan2025 20:21:47.523] [Worker-Main-35/DEBUG] [ModernFix/]: Structure repurposed_structures:mineshafts/icy/4_way is being run through DFU (hash 25cac6419e6d2f4e2aef0aed9c167c9418240243c7d82d5fea4b2393994316f9), this will cause launch time delays
+[02Jan2025 20:21:47.529] [Worker-Main-35/DEBUG] [ModernFix/]: Structure repurposed_structures:mineshafts/icy/4_way_tall is being run through DFU (hash df4c6f8d18eeca8c763f38a4b9e6cefc7b2782d8e6f6b881b66810efcb3120d5), this will cause launch time delays
+[02Jan2025 20:21:47.539] [Worker-Main-35/DEBUG] [ModernFix/]: Structure repurposed_structures:mineshafts/icy/spawner_2 is being run through DFU (hash 7b04496c3abd7968854a236a69e6e531cf1e36398bc5479ed309e0e4dbd76ebf), this will cause launch time delays
+[02Jan2025 20:21:47.541] [Worker-Main-35/DEBUG] [ModernFix/]: Structure repurposed_structures:mineshafts/icy/tunnel_rails_2 is being run through DFU (hash ccf8ee95e7c6b4a90ca15163c9632526c270cdebf88a0073b2945e126046bea7), this will cause launch time delays
+[02Jan2025 20:21:47.543] [Worker-Main-35/DEBUG] [ModernFix/]: Structure repurposed_structures:mineshafts/icy/tunnel_rails_3 is being run through DFU (hash a32bb8b8cb15ff7a2903098a2746ec4c5126e0a4f43fd97c43e207d8f6009794), this will cause launch time delays
+[02Jan2025 20:21:47.545] [Worker-Main-35/DEBUG] [ModernFix/]: Structure repurposed_structures:mineshafts/icy/ice_decor is being run through DFU (hash a31fd7e00a589e777458e2827a87d9795fe30efd0c542438afcdd6ffea79dddc), this will cause launch time delays
+[02Jan2025 20:21:47.546] [Worker-Main-35/DEBUG] [ModernFix/]: Structure repurposed_structures:mineshafts/icy/tunnel_rails_1 is being run through DFU (hash a98080e6dc1bf49f43a2e05574f726b7d875c73dfb206c729090cbb819e8083e), this will cause launch time delays
+[02Jan2025 20:21:47.548] [Worker-Main-35/DEBUG] [ModernFix/]: Structure repurposed_structures:mineshafts/icy/spawner_3_end is being run through DFU (hash b01ec6bc210a08644ee5b0510d52da11383f73461da6c05f1f88a7fd79323ff0), this will cause launch time delays
+[02Jan2025 20:21:47.574] [Worker-Main-35/DEBUG] [ModernFix/]: Structure repurposed_structures:mineshafts/icy/spawner_4_end is being run through DFU (hash d3ad859a7d281633dcdaad97df763d05e9601c03d1367e8ad687f786fb1b8aac), this will cause launch time delays
+[02Jan2025 20:21:47.584] [Worker-Main-35/DEBUG] [ModernFix/]: Structure repurposed_structures:mineshafts/icy/spawner_4_middle is being run through DFU (hash 7b8573832511bcb41efb8aabcdda4fdccaf2135b85106e8769891e4507631d71), this will cause launch time delays
+[02Jan2025 20:21:47.588] [Worker-Main-35/DEBUG] [ModernFix/]: Structure repurposed_structures:mineshafts/icy/spawner_1 is being run through DFU (hash efc4f615ec5d8756b9d40266207865a5620cc1d4cf1de2b5859cf1cc6f73b618), this will cause launch time delays
+[02Jan2025 20:21:47.596] [Worker-Main-35/DEBUG] [ModernFix/]: Structure repurposed_structures:mineshafts/icy/spawner_3_middle is being run through DFU (hash e04fd1e85ce6da5ac1131469f03014bae0f32714b2702334118ea14d444ec0a7), this will cause launch time delays
+[02Jan2025 20:22:02.228] [Worker-Main-36/WARN] [ModernFix/]: The namespace betterdungeons contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02Jan2025 20:22:02.229] [Worker-Main-36/DEBUG] [ModernFix/]: Structure betterdungeons:zombie_dungeon/tombstone/tombstone_bow_closed is being run through DFU (hash bd8c00425e9d81e5c0ea7ea6dfa95db92008d292e58d0af18b778d90ccb6bcde), this will cause launch time delays
+[02Jan2025 20:22:02.234] [Worker-Main-36/DEBUG] [ModernFix/]: Structure betterdungeons:zombie_dungeon/tombstone/tombstone_bow_open_0 is being run through DFU (hash 65598c2c422ce20411406472c18127d323705480210854e93dae74ad32f212de), this will cause launch time delays
+[02Jan2025 20:22:02.237] [Worker-Main-36/DEBUG] [ModernFix/]: Structure betterdungeons:zombie_dungeon/tombstone/tombstone_flower_open_0 is being run through DFU (hash 1db0be3bcac1606f9350903d07d0dace29008d8833430af2f6bb4653247b8b10), this will cause launch time delays
+[02Jan2025 20:22:16.202] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=357, y=17, z=605} but found not block entity block Block{minecraft:air} at location
+[02Jan2025 20:22:16.204] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=357, y=17, z=605}
+[02Jan2025 20:22:30.902] [Worker-Main-37/WARN] [ModernFix/]: The namespace biomemakeover contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02Jan2025 20:22:30.903] [Worker-Main-37/DEBUG] [ModernFix/]: Structure biomemakeover:ghosttown/roads/street_07 is being run through DFU (hash b36c5dfe78a5dd944443d97da8433eea388dfea33b11fa8b36e2d9467196b2bb), this will cause launch time delays
+[02Jan2025 20:22:33.362] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/platform_altar
+[02Jan2025 20:22:33.395] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:ocean_warn_temple
+[02Jan2025 20:22:36.369] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:ocean_ruin_vanilla_temple
+[02Jan2025 20:22:38.662] [Worker-Main-37/DEBUG] [ModernFix/]: Structure repurposed_structures:mineshafts/icy/minecart is being run through DFU (hash 2c788002acb9a17a99c06a05d3f599bc64588235b81ca130e08f2d3ac6d30aae), this will cause launch time delays
+[02Jan2025 20:22:52.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [A Stunning Fixation]
+[02Jan2025 20:22:52.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [Suit Up]
+[02Jan2025 20:22:52.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [Not Quite Common]
+[02Jan2025 20:22:52.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [I Found It Underground]
+[02Jan2025 20:22:55.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [Ice Bucket Challenge]
+[02Jan2025 20:23:46.431] [Server thread/DEBUG] [mixin/]: Mixing fastbench.MixinFastBenchUtil from polymorph_integrations.mixins.json into shadows.fastbench.util.FastBenchUtil
+[02Jan2025 20:23:46.431] [Server thread/DEBUG] [mixin/]: polymorph_integrations.mixins.json:fastbench.MixinFastBenchUtil: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[02Jan2025 20:24:31.823] [Worker-Main-35/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:wells/forest
+[02Jan2025 20:25:01.751] [Worker-Main-35/DEBUG] [ModernFix/]: Structure tconstruct:slime_islands/sky/earth_4x1x6 is being run through DFU (hash ea0b275dc096ed29ac83fe419c3bdac3a6fcccf0b04037b1d9d1176bdf0d1974), this will cause launch time delays
+[02Jan2025 20:26:11.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [One Man's Trash]
+[02Jan2025 20:26:30.485] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 1] Saved.
+[02Jan2025 20:26:30.485] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 0] Saved.
+[02Jan2025 20:26:30.487] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[02Jan2025 20:26:30.487] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 0] Saved.
+[02Jan2025 20:26:30.490] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 1] Saved.
+[02Jan2025 20:26:30.491] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 1] Saved.
+[02Jan2025 20:26:30.492] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 0] Saved.
+[02Jan2025 20:26:30.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 20:26:30.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

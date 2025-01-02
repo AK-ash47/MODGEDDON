@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "obscure_api:recipes/obscure_book": {
+    "criteria": {
+      "has_item": "2025-01-02 20:23:52 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:root": {
     "criteria": {
       "auto": "2025-01-02 17:54:45 +0000"
@@ -134,6 +140,12 @@
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:54:44 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-01-02 20:23:52 +0000"
     },
     "done": true
   },
@@ -215,6 +227,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-01-02 20:22:52 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:54:44 +0000"
@@ -286,6 +304,12 @@
       "has_the_recipe": "2025-01-02 17:54:44 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "mutton": "2025-01-02 20:21:01 +0000"
+    },
+    "done": false
   },
   "mcwfencesbop:recipes/palm_hedge": {
     "criteria": {
@@ -419,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-02 20:23:52 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:54:44 +0000"
@@ -436,6 +466,12 @@
       "log_spam_fixer": "2025-01-02 17:54:45 +0000"
     },
     "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-02 20:22:55 +0000"
+    },
+    "done": true
   },
   "comforts:rope_and_nail": {
     "criteria": {
@@ -458,6 +494,12 @@
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-01-02 17:54:45 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-01-02 20:18:25 +0000"
     },
     "done": true
   },
@@ -497,9 +539,21 @@
     },
     "done": false
   },
+  "apotheosis:affix/common": {
+    "criteria": {
+      "sword": "2025-01-02 20:26:11 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-01-02 20:22:52 +0000"
     },
     "done": true
   },
@@ -553,6 +607,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-01-02 20:20:14 +0000",
+      "minecraft:flower_forest": "2025-01-02 20:25:31 +0000",
       "minecraft:plains": "2025-01-02 17:54:45 +0000"
     },
     "done": false
@@ -581,6 +637,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-02 20:21:01 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/nether": {
     "criteria": {
       "has_nether_brick": "2025-01-02 17:54:44 +0000"
@@ -596,6 +658,12 @@
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:54:44 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-01-02 20:22:52 +0000"
     },
     "done": true
   },
@@ -656,6 +724,12 @@
   "comforts:sleeping_bag_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:54:44 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/uncommon": {
+    "criteria": {
+      "sword": "2025-01-02 20:22:52 +0000"
     },
     "done": true
   },
@@ -764,6 +838,12 @@
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:54:44 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-01-02 20:21:22 +0000"
     },
     "done": true
   },
