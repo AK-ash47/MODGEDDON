@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-01-02 21:58:54 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:54:44 +0000"
@@ -675,6 +681,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-02 21:58:31 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:54:44 +0000"
@@ -811,6 +823,12 @@
   "apotheosis:affix/uncommon": {
     "criteria": {
       "sword": "2025-01-02 20:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-02 21:58:54 +0000"
     },
     "done": true
   },

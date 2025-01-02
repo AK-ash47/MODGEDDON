@@ -2,7 +2,7 @@
 	version: 1
 	uuid: "ec1ef7d02a1e30f2bc6c1645d31ddb37"
 	name: "AkaH"
-	can_edit: false
+	can_edit: true
 	lock: false
 	auto_pin: false
 	chapter_pinned: false
@@ -11,5 +11,5 @@
 	started: { }
 	completed: { }
 	claimed_rewards: { }
-	pinned_quests: [ ]
+	pinned_quests: ["0000000000000001"]
 }
