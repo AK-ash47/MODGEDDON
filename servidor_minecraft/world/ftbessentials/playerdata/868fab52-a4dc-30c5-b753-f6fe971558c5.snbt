@@ -2,9 +2,9 @@
 	muted: false
 	fly: false
 	god: false
-	nick: ""
+	nick: "MENTAALJOSE"
 	name: "MENTAALJOSE"
-	last_seen: { dim: "minecraft:overworld", x: 3, y: 72, z: 122, time: 1735858947377L, xRot: 0.0f, yRot: 0.0f }
+	last_seen: { dim: "minecraft:overworld", x: 455, y: 117, z: 201, time: 1735860581327L, xRot: 26.700058f, yRot: 33.318142f }
 	recording: 0
 	teleport_history: [
 		{ dim: "minecraft:overworld", x: 3, y: 72, z: 122, time: 1735859055807L, xRot: 0.0f, yRot: 0.0f }
@@ -15,6 +15,8 @@
 		{ dim: "minecraft:overworld", x: -3, y: 69, z: 110, time: 1735859350179L, xRot: 6.600003f, yRot: 40.950035f }
 		{ dim: "minecraft:overworld", x: -2, y: 69, z: 18, time: 1735859720525L, xRot: 63.89972f, yRot: -171.18494f }
 		{ dim: "minecraft:overworld", x: 49, y: 60, z: 66, time: 1735859743472L, xRot: 86.549965f, yRot: 126.55707f }
+		{ dim: "minecraft:overworld", x: 45, y: 70, z: 33, time: 1735859974325L, xRot: 25.649704f, yRot: -111.12262f }
+		{ dim: "minecraft:overworld", x: 15, y: 65, z: 39, time: 1735860337048L, xRot: 10.199927f, yRot: 109.576195f }
 	]
 	homes: { }
 }
