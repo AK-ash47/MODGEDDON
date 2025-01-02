@@ -22517,3 +22517,60 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [02Jan2025 20:36:30.493] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 1] Saved.
 [02Jan2025 20:36:30.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jan2025 20:36:30.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 20:36:53.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [Stone Age]
+[02Jan2025 20:37:09.118] [Worker-Main-35/DEBUG] [ModernFix/]: Structure betterdungeons:skeleton_dungeon/campfire_prop/campfire_prop_4 is being run through DFU (hash 035f14a11eb1e451b13f1f59c1a6d6a40ab3de986350db9190c2df7212e40e11), this will cause launch time delays
+[02Jan2025 20:37:09.121] [Worker-Main-35/DEBUG] [ModernFix/]: Structure betterdungeons:skeleton_dungeon/3x3/3x3_4 is being run through DFU (hash 52cec4534de89dbffa6ac80257ec799046120cf940f06566d9ba420db596302a), this will cause launch time delays
+[02Jan2025 20:37:09.122] [Worker-Main-35/DEBUG] [ModernFix/]: Structure betterdungeons:skeleton_dungeon/3x3/3x3_10 is being run through DFU (hash 5ba0d13af050350665e21207ea765e69e02386dd538ce45b5cf4d269b2cff54e), this will cause launch time delays
+[02Jan2025 20:37:41.764] [Worker-Main-36/DEBUG] [ModernFix/]: Structure repurposed_structures:mineshafts/swamp/minecart is being run through DFU (hash 06104399f1ec2a2aadbd97dc29acbef5f6ac26beecce3aa25d6442f3edcba969), this will cause launch time delays
+[02Jan2025 20:38:18.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [Getting an Upgrade]
+[02Jan2025 20:38:58.082] [Worker-Main-35/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[0, -2]
+[02Jan2025 20:38:59.080] [Worker-Main-35/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-1, -2]
+[02Jan2025 20:40:00.927] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_flower_open_1
+[02Jan2025 20:40:00.929] [Worker-Main-36/DEBUG] [ModernFix/]: Structure betterdungeons:zombie_dungeon/tombstone/tombstone_bow_open_1 is being run through DFU (hash da585a42f22dbf86235265bfbc676d8c5c40a7a48ea9b4be11980fc8ae9b5aea), this will cause launch time delays
+[02Jan2025 20:40:49.657] [Worker-Main-37/DEBUG] [ModernFix/]: Structure humancompanions:cabin2 is being run through DFU (hash 0c87a923860458f6641e9f9bca8d7c6bfe59da6ae1aed80a4834bf2baf70dfd8), this will cause launch time delays
+[02Jan2025 20:40:49.700] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:fortified_desert
+[02Jan2025 20:40:54.581] [Worker-Main-35/DEBUG] [ModernFix/]: Structure biomemakeover:sunken_ruins/sunken_3 is being run through DFU (hash c81fcbe58e52e9b8a3377104e00cb801d8883b9e64182269524f5a7b609c8777), this will cause launch time delays
+[02Jan2025 20:40:57.828] [Worker-Main-36/DEBUG] [ModernFix/]: Structure biomemakeover:sunken_ruins/sunken_small_4 is being run through DFU (hash 0140844add46e93a5d3f64ba57759bacc89c7d740ee04e6257fad0752f0fd3b1), this will cause launch time delays
+[02Jan2025 20:41:08.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [Disme A Dozen]
+[02Jan2025 20:41:13.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH is bleeding. AkaH was slain by Dread Hound
+[02Jan2025 20:41:13.226] [Server thread/WARN] [tombstone/]: The death event of the player AkaH was canceled by another mod
+[02Jan2025 20:41:13.289] [Server thread/INFO] [tombstone/]: The player AkaH has successfully been saved
+[02Jan2025 20:41:14.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH tried to swim in lava to escape Dread Hound
+[02Jan2025 20:41:14.700] [Server thread/DEBUG] [tombstone/]: A new grave of the player AkaH was created at position [x:-182, y:-25, z:-274, dim:minecraft:overworld]
+[02Jan2025 20:41:14.704] [Server thread/INFO] [tombstone/]: The player AkaH has successfully been saved
+[02Jan2025 20:41:16.021] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Jan2025 20:41:16.022] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Jan2025 20:41:16.024] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Jan2025 20:41:16.027] [Server thread/INFO] [Reputation/]: Syncing 0 factions to the client
+[02Jan2025 20:41:30.477] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -2] Saved.
+[02Jan2025 20:41:30.478] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -1] Saved.
+[02Jan2025 20:41:30.488] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -2] Saved.
+[02Jan2025 20:41:30.489] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -1] Saved.
+[02Jan2025 20:41:30.492] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[02Jan2025 20:41:30.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 20:41:30.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 20:41:33.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AkaH: Gave 1    [Ender Pearl] to AkaH]
+[02Jan2025 20:41:37.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [The Most Useful Key]
+[02Jan2025 20:41:42.973] [Server thread/DEBUG] [mixin/]: Mixing item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[02Jan2025 20:41:42.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [Knowledge of Death]
+[02Jan2025 20:41:42.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has reached the goal [A Fast Comeback]
+[02Jan2025 20:41:55.861] [Worker-Main-37/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-2, -1]
+[02Jan2025 20:42:17.698] [Worker-Main-35/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-2, 0]
+[02Jan2025 20:42:25.621] [Worker-Main-35/DEBUG] [ModernFix/]: Structure biomemakeover:ghosttown/roads/street_02 is being run through DFU (hash cf3cadc50eb6bef67ee113c3fc96f1891c91888dbac1f6620ffbcc9762d83b1a), this will cause launch time delays
+[02Jan2025 20:42:40.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH is bleeding. AkaH was slain by Wilden Stalker
+[02Jan2025 20:42:40.838] [Server thread/WARN] [tombstone/]: The death event of the player AkaH was canceled by another mod
+[02Jan2025 20:42:40.850] [Server thread/INFO] [tombstone/]: The player AkaH has successfully been saved
+[02Jan2025 20:42:51.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH was slain by Wilden Stalker
+[02Jan2025 20:42:51.681] [Server thread/DEBUG] [tombstone/]: A new grave of the player AkaH was created at position [x:0, y:69, z:113, dim:minecraft:overworld]
+[02Jan2025 20:42:53.629] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Jan2025 20:42:53.629] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Jan2025 20:42:53.630] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Jan2025 20:42:53.632] [Server thread/INFO] [Reputation/]: Syncing 0 factions to the client
+[02Jan2025 20:46:30.479] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -2] Saved.
+[02Jan2025 20:46:30.481] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -1] Saved.
+[02Jan2025 20:46:30.488] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, -1] Saved.
+[02Jan2025 20:46:30.491] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, 0] Saved.
+[02Jan2025 20:46:30.491] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -2] Saved.
+[02Jan2025 20:46:30.492] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[02Jan2025 20:46:30.508] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 20:46:30.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

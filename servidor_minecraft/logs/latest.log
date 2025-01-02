@@ -2119,3 +2119,27 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [02Jan2025 20:35:34.436] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ti'/847, l='ServerLevel[world]', x=46.33, y=62.00, z=81.53] died: Ti was slain by Cave Spider
 [02Jan2025 20:35:46.169] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Hang-Suk'/882, l='ServerLevel[world]', x=72.34, y=68.00, z=76.67] died, message: 'Hang-Suk was burnt to a crisp whilst fighting Cave Spider'
 [02Jan2025 20:35:46.171] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Hang-Suk'/882, l='ServerLevel[world]', x=72.34, y=68.00, z=76.67] died: Hang-Suk was burnt to a crisp whilst fighting Cave Spider
+[02Jan2025 20:36:53.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [Stone Age]
+[02Jan2025 20:38:18.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [Getting an Upgrade]
+[02Jan2025 20:41:08.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [Disme A Dozen]
+[02Jan2025 20:41:13.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH is bleeding. AkaH was slain by Dread Hound
+[02Jan2025 20:41:13.226] [Server thread/WARN] [tombstone/]: The death event of the player AkaH was canceled by another mod
+[02Jan2025 20:41:13.289] [Server thread/INFO] [tombstone/]: The player AkaH has successfully been saved
+[02Jan2025 20:41:14.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH tried to swim in lava to escape Dread Hound
+[02Jan2025 20:41:14.704] [Server thread/INFO] [tombstone/]: The player AkaH has successfully been saved
+[02Jan2025 20:41:16.021] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Jan2025 20:41:16.022] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Jan2025 20:41:16.024] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Jan2025 20:41:16.027] [Server thread/INFO] [Reputation/]: Syncing 0 factions to the client
+[02Jan2025 20:41:33.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AkaH: Gave 1    [Ender Pearl] to AkaH]
+[02Jan2025 20:41:37.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [The Most Useful Key]
+[02Jan2025 20:41:42.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has made the advancement [Knowledge of Death]
+[02Jan2025 20:41:42.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH has reached the goal [A Fast Comeback]
+[02Jan2025 20:42:40.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH is bleeding. AkaH was slain by Wilden Stalker
+[02Jan2025 20:42:40.838] [Server thread/WARN] [tombstone/]: The death event of the player AkaH was canceled by another mod
+[02Jan2025 20:42:40.850] [Server thread/INFO] [tombstone/]: The player AkaH has successfully been saved
+[02Jan2025 20:42:51.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AkaH was slain by Wilden Stalker
+[02Jan2025 20:42:53.629] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Jan2025 20:42:53.629] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Jan2025 20:42:53.630] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Jan2025 20:42:53.632] [Server thread/INFO] [Reputation/]: Syncing 0 factions to the client
