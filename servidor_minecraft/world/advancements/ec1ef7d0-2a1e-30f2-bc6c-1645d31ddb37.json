@@ -11,12 +11,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 21:33:30 +0000"
-    },
-    "done": false
-  },
   "comforts:hammock_white": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:54:44 +0000"
@@ -172,12 +166,6 @@
       "has_the_recipe": "2025-01-02 17:54:44 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 21:33:30 +0000"
-    },
-    "done": false
   },
   "apotheosis:give_book": {
     "criteria": {
@@ -594,12 +582,6 @@
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 21:33:30 +0000"
-    },
-    "done": false
-  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:54:44 +0000"
@@ -661,12 +643,6 @@
       "game_state": "2025-01-02 17:54:44 +0000"
     },
     "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 21:33:30 +0000"
-    },
-    "done": false
   },
   "mcwfencesbop:recipes/jacaranda": {
     "criteria": {
@@ -802,18 +778,6 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 21:33:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 21:33:30 +0000"
-    },
-    "done": false
-  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-01-02 19:53:54 +0000"
@@ -887,12 +851,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 21:33:30 +0000"
-    },
-    "done": false
-  },
   "comforts:hammock_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:54:44 +0000"
@@ -905,12 +863,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 21:33:30 +0000"
-    },
-    "done": false
-  },
   "mcwfences:recipes/quartz": {
     "criteria": {
       "has_qq": "2025-01-02 17:54:44 +0000"
@@ -922,12 +874,6 @@
       "has_birch": "2025-01-02 17:54:44 +0000"
     },
     "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 21:33:30 +0000"
-    },
-    "done": false
   },
   "mcwfencesbop:recipes/fir": {
     "criteria": {
@@ -1096,12 +1042,6 @@
       "opened_barrel": "2025-01-02 20:33:14 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 21:33:30 +0000"
-    },
-    "done": false
   },
   "repurposed_structures:root": {
     "criteria": {

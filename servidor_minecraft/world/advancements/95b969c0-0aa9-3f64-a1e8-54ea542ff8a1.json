@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-02 21:40:31 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_white": {
     "criteria": {
       "has_the_recipe": "2025-01-02 21:24:04 +0000"
@@ -46,6 +52,12 @@
       "has_acacia": "2025-01-02 21:24:04 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2025-01-02 21:37:23 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_black": {
     "criteria": {
@@ -143,6 +155,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-02 21:40:31 +0000"
+    },
+    "done": false
+  },
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-01-02 21:24:04 +0000"
@@ -185,15 +203,15 @@
     },
     "done": true
   },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2025-01-02 21:32:15 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2025-01-02 21:24:04 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-01-02 21:32:15 +0000"
     },
     "done": true
   },
@@ -497,15 +515,21 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
+  "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "iron_leggings": "2025-01-02 21:32:17 +0000"
+      "log_spam_fixer": "2025-01-02 21:40:31 +0000"
     },
-    "done": true
+    "done": false
   },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-02 21:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-01-02 21:32:17 +0000"
     },
     "done": true
   },
@@ -545,6 +569,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-02 21:40:31 +0000"
+    },
+    "done": false
+  },
   "mcwfencesbop:recipes/jacaranda": {
     "criteria": {
       "has_acacia": "2025-01-02 21:24:04 +0000"
@@ -566,6 +596,12 @@
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-02 21:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-02 21:38:17 +0000"
     },
     "done": true
   },
@@ -647,6 +683,18 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-02 21:40:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-02 21:40:31 +0000"
+    },
+    "done": false
+  },
   "mcwfences:recipes/bamboo": {
     "criteria": {
       "has_bamboo": "2025-01-02 21:24:04 +0000"
@@ -683,17 +731,17 @@
     },
     "done": true
   },
-  "lootr:social": {
-    "criteria": {
-      "opened_chest": "2025-01-02 21:32:15 +0000"
-    },
-    "done": false
-  },
   "mcwfences:recipes/acacia": {
     "criteria": {
       "has_acacia": "2025-01-02 21:24:04 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-01-02 21:32:15 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_black_from_white": {
     "criteria": {
@@ -707,6 +755,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-02 21:40:31 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-02 21:24:04 +0000"
@@ -719,6 +773,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-02 21:40:31 +0000"
+    },
+    "done": false
+  },
   "mcwfences:recipes/quartz": {
     "criteria": {
       "has_qq": "2025-01-02 21:24:04 +0000"
@@ -730,6 +790,12 @@
       "has_birch": "2025-01-02 21:24:04 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-02 21:40:31 +0000"
+    },
+    "done": false
   },
   "mcwfencesbop:recipes/fir": {
     "criteria": {
@@ -856,6 +922,12 @@
       "bleeding_applied": "2025-01-02 21:27:05 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-02 21:40:31 +0000"
+    },
+    "done": false
   },
   "repurposed_structures:root": {
     "criteria": {
